@@ -23,6 +23,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 
 ## Outreach rules
 
+- **Never send any email without Brandon's explicit OK for that specific email** (his rule, 2026-10-21). Gmail access is for preparing and checking only until he says to send.
 - Only email addresses the business published itself for enquiries. Never guess or build one from a pattern.
 - One personal message per lead, at most 50 a day, and only after Brandon approves the list and the messages.
 - One follow-up after 4–5 days at most. Anyone who says no goes in `leads/do-not-contact.md`. Check that list before every send.
