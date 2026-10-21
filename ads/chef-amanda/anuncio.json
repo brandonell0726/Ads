@@ -1,0 +1,72 @@
+{
+ "titulo": "Chef Amanda — Cuban Fusion Cuisine",
+ "formato": "vertical",
+ "fuentes": [
+  "League Spartan:700,800,900"
+ ],
+ "musica": {
+  "archivo": "musica/musica.mp3",
+  "volumen": 0.95,
+  "fundido": 1.0
+ },
+ "planos": [
+  {
+   "id": "hook",
+   "medio": "anuncio/planos/01_ropa_vieja.mp4",
+   "compases": 2,
+   "desde": 0.5
+  },
+  {
+   "id": "marca",
+   "medio": "anuncio/planos/02_truck.mp4",
+   "compases": 2,
+   "desde": 0.3
+  },
+  {
+   "id": "cubano",
+   "medio": "anuncio/planos/03_cubano.mp4",
+   "compases": 1,
+   "desde": 1.5
+  },
+  {
+   "id": "tostones",
+   "medio": "anuncio/planos/04_shrimp.mp4",
+   "compases": 1,
+   "desde": 1.0
+  },
+  {
+   "id": "sliders",
+   "medio": "anuncio/planos/05_sliders.mp4",
+   "compases": 1,
+   "desde": 1.0
+  },
+  {
+   "id": "platter",
+   "medio": "anuncio/planos/06_platter.mp4",
+   "compases": 1,
+   "desde": 1.0
+  },
+  {
+   "id": "fish",
+   "medio": "anuncio/planos/07_fish.mp4",
+   "compases": 1,
+   "desde": 1.6
+  },
+  {
+   "id": "cheesecake",
+   "medio": "anuncio/planos/08_cheesecake.mp4",
+   "compases": 1,
+   "desde": 1.5
+  },
+  {
+   "id": "cierre",
+   "medio": "anuncio/planos/02_truck.mp4",
+   "compases": 2,
+   "extra": 1.2,
+   "desde": 0.2,
+   "ritmo": 0.8
+  }
+ ],
+ "diseno": "anuncio/diseno",
+ "salida": "chef-amanda-anuncio.mp4"
+}

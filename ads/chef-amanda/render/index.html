@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="es" data-resolution="portrait">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<title>Chef Amanda — Cuban Fusion Cuisine</title>
+<script src="assets/gsap.min.js"></script>
+<style>@font-face { font-family: "League Spartan"; src: url("assets/fuentes/league-spartan-5Twtx8BWhtkDVmjZvMGYPpBA.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+@font-face { font-family: "League Spartan"; src: url("assets/fuentes/league-spartan-5Twtx8BWhtkDVmjZvMfoPpBA.ttf") format("truetype"); font-weight: 800; font-style: normal; }
+@font-face { font-family: "League Spartan"; src: url("assets/fuentes/league-spartan-5Twtx8BWhtkDVmjZvMV4PpBA.ttf") format("truetype"); font-weight: 900; font-style: normal; }
+@font-face { font-family: "Inter"; src: url("assets/fuentes/Inter.ttf") format("truetype"); font-weight: 100 900; font-style: normal; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1920px; overflow: hidden; background: #000; }
+#root { position: relative; width: 100%; height: 100%; overflow: hidden; background: #000; font-family: "Inter", sans-serif; }
+.plano { position: absolute; inset: 0; overflow: hidden; }
+.cam { position: absolute; inset: 0; }
+.medio { position: absolute; left: 0; top: 0; width: 100%; height: 100%; object-fit: cover; }
+.l, .w { display: inline-block; white-space: pre; }
+:root {
+  --rosa: #EC2E80;
+  --rosa-claro: #FFE3EE;
+  --amarillo: #FFC21A;
+  --tinta: #1C1418;
+}
+
+#root > .capa { position: absolute; inset: 0; }
+
+/* Gancho */
+.hook-box { position: absolute; left: 0; right: 0; top: 250px; text-align: center; }
+.hook-l1 { font: 800 70px/1 "League Spartan", sans-serif; color: var(--tinta); letter-spacing: -1px; }
+.hook-l2 { margin-top: 22px; }
+.hook-big {
+  display: inline-block; background: var(--rosa); color: #fff;
+  font: 900 124px/1 "League Spartan", sans-serif; letter-spacing: -2px;
+  padding: 30px 40px 12px; border-radius: 22px; border: 7px solid #fff;
+  box-shadow: 0 16px 34px rgba(120, 10, 60, .30);
+}
+
+/* Etiquetas de plato (como las de su pizarra) */
+.pill-wrap { position: absolute; left: 90px; right: 90px; top: 1380px; display: flex; }
+.pill-wrap.izq { justify-content: flex-start; }
+.pill-wrap.der { justify-content: flex-end; }
+.pill-wrap.centro { justify-content: center; }
+.pill-wrap.bajo { top: 1420px; }
+.pill {
+  background: var(--rosa); color: #fff; white-space: nowrap;
+  font: 800 70px/1 "League Spartan", sans-serif; letter-spacing: -1px;
+  padding: 28px 46px 14px; border-radius: 999px; border: 6px solid #fff;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, .30);
+}
+.pill.blanca { background: #fff; color: var(--rosa); border-color: var(--rosa); }
+
+.sticker {
+  position: absolute; top: 1210px; width: 190px; height: 190px; border-radius: 50%;
+  background: var(--amarillo); color: var(--tinta); border: 6px solid #fff;
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  font: 900 44px/0.95 "League Spartan", sans-serif; padding-top: 8px;
+  box-shadow: 0 12px 26px rgba(0, 0, 0, .28);
+}
+.sticker.st-der { right: 110px; }
+.sticker.st-izq { left: 110px; font-size: 40px; }
+
+/* Cinta superior */
+.ticker {
+  position: absolute; left: 0; right: 0; top: 168px; height: 62px; overflow: hidden; z-index: 65;
+  background: var(--rosa); border-top: 4px solid var(--amarillo); border-bottom: 4px solid var(--amarillo);
+}
+.ticker-in {
+  position: absolute; left: 0; top: 0; white-space: nowrap; color: #fff;
+  font: 800 34px/58px "League Spartan", sans-serif; letter-spacing: 5px; padding-top: 3px;
+}
+
+/* Marca */
+.velo-top { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(20, 0, 10, .45) 0%, rgba(20, 0, 10, .18) 38%, rgba(20, 0, 10, 0) 52%); }
+.marca-box { position: absolute; left: 0; right: 0; top: 300px; display: flex; flex-direction: column; align-items: center; }
+.logo { width: 880px; height: auto; filter: drop-shadow(0 8px 20px rgba(90, 0, 40, .60)); }
+.tag {
+  margin-top: 6px; background: var(--rosa); color: #fff; white-space: nowrap;
+  font: 800 40px/1 "League Spartan", sans-serif; letter-spacing: 6px;
+  padding: 18px 30px 10px; border-radius: 999px; border: 5px solid #fff;
+}
+.flash { position: absolute; inset: 0; background: var(--rosa); z-index: 70; }
+
+/* Cierre */
+.velo-cierre {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(to bottom, rgba(20, 0, 10, .50) 0%, rgba(20, 0, 10, 0) 40%),
+    linear-gradient(to top, rgba(236, 46, 128, .96) 0%, rgba(236, 46, 128, .88) 32%, rgba(236, 46, 128, 0) 58%);
+}
+.cierre-logo { position: absolute; left: 0; right: 0; top: 300px; display: flex; justify-content: center; }
+.cierre-datos { position: absolute; left: 90px; right: 90px; top: 1170px; text-align: center; color: #fff; }
+.dir1 { font: 800 66px/1.05 "League Spartan", sans-serif; letter-spacing: -1px; }
+.dir2 { margin-top: 12px; font: 700 50px/1 "League Spartan", sans-serif; letter-spacing: 1px; }
+.cta-wrap { margin-top: 44px; display: flex; justify-content: center; }
+.cta {
+  background: var(--amarillo); color: var(--tinta); white-space: nowrap;
+  font: 900 72px/1 "League Spartan", sans-serif; letter-spacing: -1px;
+  padding: 28px 50px 14px; border-radius: 999px; border: 6px solid #fff;
+  box-shadow: 0 14px 30px rgba(90, 0, 40, .35);
+}
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="27.384" data-width="1080" data-height="1920">
+<div class="plano" id="plano-hook" style="z-index:11"><div class="cam" id="cam-hook" data-layout-allow-overflow><video id="medio-hook" class="clip medio" src="assets/a01.mp4" data-start="0.0000" data-duration="4.3640" data-media-start="0.500" data-track-index="1" muted playsinline></video></div></div>
+<div class="plano" id="plano-marca" style="z-index:12"><div class="cam" id="cam-marca" data-layout-allow-overflow><video id="medio-marca" class="clip medio" src="assets/a02.mp4" data-start="4.3640" data-duration="4.3640" data-media-start="0.300" data-track-index="0" muted playsinline></video></div></div>
+<div class="plano" id="plano-cubano" style="z-index:13"><div class="cam" id="cam-cubano" data-layout-allow-overflow><video id="medio-cubano" class="clip medio" src="assets/a03.mp4" data-start="8.7281" data-duration="2.1820" data-media-start="1.500" data-track-index="1" muted playsinline></video></div></div>
+<div class="plano" id="plano-tostones" style="z-index:14"><div class="cam" id="cam-tostones" data-layout-allow-overflow><video id="medio-tostones" class="clip medio" src="assets/a04.mp4" data-start="10.9101" data-duration="2.1820" data-media-start="1.000" data-track-index="0" muted playsinline></video></div></div>
+<div class="plano" id="plano-sliders" style="z-index:15"><div class="cam" id="cam-sliders" data-layout-allow-overflow><video id="medio-sliders" class="clip medio" src="assets/a05.mp4" data-start="13.0921" data-duration="2.1820" data-media-start="1.000" data-track-index="1" muted playsinline></video></div></div>
+<div class="plano" id="plano-platter" style="z-index:16"><div class="cam" id="cam-platter" data-layout-allow-overflow><video id="medio-platter" class="clip medio" src="assets/a06.mp4" data-start="15.2741" data-duration="2.1820" data-media-start="1.000" data-track-index="0" muted playsinline></video></div></div>
+<div class="plano" id="plano-fish" style="z-index:17"><div class="cam" id="cam-fish" data-layout-allow-overflow><video id="medio-fish" class="clip medio" src="assets/a07.mp4" data-start="17.4561" data-duration="2.1820" data-media-start="1.600" data-track-index="1" muted playsinline></video></div></div>
+<div class="plano" id="plano-cheesecake" style="z-index:18"><div class="cam" id="cam-cheesecake" data-layout-allow-overflow><video id="medio-cheesecake" class="clip medio" src="assets/a08.mp4" data-start="19.6381" data-duration="2.1820" data-media-start="1.500" data-track-index="0" muted playsinline></video></div></div>
+<div class="plano" id="plano-cierre" style="z-index:19"><div class="cam" id="cam-cierre" data-layout-allow-overflow><video id="medio-cierre" class="clip medio" src="assets/a02.mp4" data-start="21.8202" data-duration="5.5640" data-media-start="0.200" data-playback-rate="0.8" data-track-index="1" muted playsinline></video></div></div>
+<!-- 1 · Gancho: el plato de restaurante… que sale de un food truck -->
+<div class="clip capa" id="c-hook" data-start="0" data-duration="4.364" data-track-index="3" style="z-index:11">
+  <div class="hook-box">
+    <div class="hook-l1"><span class="w">This</span> <span class="w">came</span> <span class="w">out</span> <span class="w">of</span> <span class="w">a</span></div>
+    <div class="hook-l2"><span class="hook-big" id="hook-big">FOOD TRUCK.</span></div>
+  </div>
+  <div class="pill-wrap centro bajo"><div class="pill" id="pill-hook">Ropa Vieja Bowl</div></div>
+</div>
+
+<!-- 2 · Golpe de marca: el logo real sobre su truck -->
+<div class="clip capa" data-start="4.364" data-duration="4.364" data-track-index="4" style="z-index:12">
+  <div class="velo-top"></div>
+  <div class="marca-box">
+    <img class="logo" id="logo1" src="assets/a09.png" alt="" />
+    <div class="tag" id="tag1">CUBAN FUSION CUISINE</div>
+  </div>
+</div>
+<div class="clip flash" id="flash" data-start="4.364" data-duration="0.45" data-track-index="5"></div>
+
+<!-- 3-8 · La carta: etiquetas rosas como las de su pizarra -->
+<div class="clip capa" data-start="8.7281" data-duration="2.182" data-track-index="3" style="z-index:13">
+  <div class="pill-wrap izq"><div class="pill" id="pill-cubano">Sandwich Cubano</div></div>
+</div>
+<div class="clip capa" data-start="10.9101" data-duration="2.182" data-track-index="4" style="z-index:14">
+  <div class="pill-wrap der"><div class="pill" id="pill-tostones">Shrimp Tostones</div></div>
+</div>
+<div class="clip capa" data-start="13.0921" data-duration="2.182" data-track-index="3" style="z-index:15">
+  <div class="pill-wrap izq"><div class="pill" id="pill-sliders">Pulled Pork Sliders</div></div>
+  <div class="sticker st-der" id="st-sliders">x3</div>
+</div>
+<div class="clip capa" data-start="15.2741" data-duration="2.182" data-track-index="4" style="z-index:16">
+  <div class="pill-wrap der"><div class="pill blanca" id="pill-platter">Made for sharing</div></div>
+</div>
+<div class="clip capa" data-start="17.4561" data-duration="2.182" data-track-index="3" style="z-index:17">
+  <div class="pill-wrap izq"><div class="pill" id="pill-fish">Fresh Fried Fish</div></div>
+</div>
+<div class="clip capa" data-start="19.6381" data-duration="2.182" data-track-index="4" style="z-index:18">
+  <div class="pill-wrap der"><div class="pill" id="pill-cheesecake">Guava Cheesecake</div></div>
+  <div class="sticker st-izq" id="st-cheesecake">Save room!</div>
+</div>
+
+<!-- Cinta como la de "MENU MENU MENU" de su carta -->
+<div class="clip ticker" data-start="8.7281" data-duration="13.092" data-track-index="6">
+  <div class="ticker-in" id="ticker">CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION • CUBAN FUSION •</div>
+</div>
+
+<!-- 9 · Cierre: logo, dónde y la llamada -->
+<div class="clip capa" data-start="21.8202" data-duration="5.564" data-track-index="4" style="z-index:19">
+  <div class="velo-cierre" id="velo-cierre"></div>
+  <div class="cierre-logo"><img class="logo" id="logo2" src="assets/a09.png" alt="" /></div>
+  <div class="cierre-datos">
+    <div class="dir1" id="dir1">5405 W Irlo Bronson Hwy</div>
+    <div class="dir2" id="dir2">Kissimmee, FL</div>
+    <div class="cta-wrap"><div class="cta" id="cta">Come hungry.</div></div>
+  </div>
+</div>
+
+<audio id="musica" data-timeline-role="music" src="assets/a10.mp3" data-start="0" data-duration="27.384" data-media-start="41.389" data-track-index="20" data-volume="1" data-automation='{"version": 1, "lanes": [{"target": "volume", "points": [{"t": 0, "v": 0}, {"t": 0.08, "v": 0.95}, {"t": 26.38, "v": 0.95}, {"t": 27.38, "v": 0}]}]}'></audio>
+</div>
+<script>
+const P = {"hook": {"ini": 0.0, "dur": 4.364, "fin": 4.364}, "marca": {"ini": 4.364, "dur": 4.364, "fin": 8.728}, "cubano": {"ini": 8.7281, "dur": 2.182, "fin": 10.9101}, "tostones": {"ini": 10.9101, "dur": 2.182, "fin": 13.0921}, "sliders": {"ini": 13.0921, "dur": 2.182, "fin": 15.2741}, "platter": {"ini": 15.2741, "dur": 2.182, "fin": 17.4561}, "fish": {"ini": 17.4561, "dur": 2.182, "fin": 19.6381}, "cheesecake": {"ini": 19.6381, "dur": 2.182, "fin": 21.8201}, "cierre": {"ini": 21.8202, "dur": 5.564, "fin": 27.3842}};
+const TOTAL = 27.384, COMPAS = 2.182, PULSO = 0.5455, W = 1080, H = 1920;
+const tl = gsap.timeline({ paused: true });
+// Cámara: golpe de zoom en cada corte y empuje lento el resto del plano
+Object.keys(P).forEach((id) => {
+  tl.fromTo(`#cam-${id}`, { scale: 1.1 }, { scale: 1, duration: 0.45, ease: "expo.out" }, P[id].ini);
+  tl.to(`#cam-${id}`, { scale: 1.05, duration: Math.max(0.1, P[id].dur - 0.45), ease: "none" }, P[id].ini + 0.45);
+});
+
+// Gancho
+tl.fromTo("#c-hook .hook-l1 .w", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.35, stagger: 0.09, ease: "back.out(2)" }, P.hook.ini + 0.15);
+tl.fromTo("#hook-big", { clipPath: "inset(-30% 100% -30% -5%)", rotation: 0 }, { clipPath: "inset(-30% -5% -30% -5%)", rotation: -3, duration: 0.5, ease: "power3.inOut" }, P.hook.ini + PULSO * 3);
+tl.fromTo("#pill-hook", { scale: 0, rotation: 12, opacity: 0 }, { scale: 1, rotation: 2, opacity: 1, duration: 0.45, ease: "back.out(2.2)" }, P.hook.ini + COMPAS + PULSO);
+
+// Golpe de marca: destello rosa, el logo se escribe y entra la etiqueta
+tl.fromTo("#flash", { opacity: 1 }, { opacity: 0, duration: 0.4, ease: "power2.out" }, P.marca.ini);
+tl.fromTo("#logo1", { clipPath: "inset(-15% 100% -15% -5%)", scale: 1.12 }, { clipPath: "inset(-15% -5% -15% -5%)", scale: 1, duration: 1.0, ease: "power2.inOut" }, P.marca.ini + 0.05);
+tl.fromTo("#tag1", { opacity: 0, y: 30, scale: 0.6 }, { opacity: 1, y: 0, scale: 1, duration: 0.4, ease: "back.out(2.5)" }, P.marca.ini + PULSO * 3);
+
+// Etiquetas de plato: se pegan como pegatinas, alternando lado e inclinación
+["cubano", "tostones", "sliders", "platter", "fish", "cheesecake"].forEach((id, i) => {
+  const rot = i % 2 ? 3 : -3;
+  tl.fromTo(`#pill-${id}`, { scale: 0, rotation: rot * 5, opacity: 0 }, { scale: 1, rotation: rot, opacity: 1, duration: 0.42, ease: "back.out(2.2)" }, P[id].ini + 0.1);
+});
+tl.fromTo("#st-sliders", { scale: 0, rotation: -45 }, { scale: 1, rotation: 12, duration: 0.38, ease: "back.out(3)" }, P.sliders.ini + PULSO * 1.5);
+tl.fromTo("#st-cheesecake", { scale: 0, rotation: 45 }, { scale: 1, rotation: -10, duration: 0.38, ease: "back.out(3)" }, P.cheesecake.ini + PULSO * 1.5);
+
+// Cinta que corre durante la carta
+tl.fromTo("#ticker", { x: 0 }, { x: -1150, duration: P.cheesecake.fin - P.cubano.ini, ease: "none" }, P.cubano.ini);
+
+// Cierre
+tl.fromTo("#velo-cierre", { opacity: 0 }, { opacity: 1, duration: 0.5, ease: "sine.out" }, P.cierre.ini);
+tl.fromTo("#logo2", { clipPath: "inset(-15% 100% -15% -5%)" }, { clipPath: "inset(-15% -5% -15% -5%)", duration: 1.0, ease: "power2.inOut" }, P.cierre.ini + 0.1);
+tl.fromTo("#dir1", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.45, ease: "power3.out" }, P.cierre.ini + PULSO * 2);
+tl.fromTo("#dir2", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.45, ease: "power3.out" }, P.cierre.ini + PULSO * 2.5);
+tl.fromTo("#cta", { scale: 0, rotation: -14 }, { scale: 1, rotation: -3, duration: 0.45, ease: "back.out(2.5)" }, P.cierre.ini + COMPAS);
+
+window.__timelines["main"] = tl;
+</script>
+</body>
+</html>
