@@ -36,3 +36,13 @@ Voice used for the actor: man in his mid-20s, warm medium-low voice, relaxed and
 | 1 The laces | f25ce7d5-f9d5-4793-9cdc-ae387972b472 |
 | 2 Fit check | 9eda9229-c609-46b8-9ea0-35a194bb42a6 |
 | 3 Lid flip | 6307c7b0-c75f-49c6-afe4-e027b9991caf |
+
+## Final videos (2026-10-22)
+
+| # | Video | Notes |
+|---|---|---|
+| 1 The laces | [watch / download](https://d8j0ntlcm91z4.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/hf_20261022_165136_f25ce7d5-f9d5-4793-9cdc-ae387972b472.mp4) | Used as generated |
+| 2 Fit check | [watch / download](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/cd2d34bd-4ab8-4196-9224-044db7860556.mp4) (media `cd2d34bd-4ab8-4196-9224-044db7860556`) | Edited: the generated clip ended with the face upside down (phone on the ground); that part was rotated upright and the step-over slowed to hide the switch |
+| 3 Lid flip | [watch / download](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/4f61fbce-f01f-4790-bc77-520261af4a95.mp4) (media `4f61fbce-f01f-4790-bc77-520261af4a95`) | Edited: cropped about 14% from the bottom to remove a car-brand emblem on the hood |
+
+Cost: about 321 Higgsfield credits (4,177.28 → 3,856.10), roughly $13 on the Ultra plan.
