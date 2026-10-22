@@ -1,0 +1,41 @@
+<!-- Caída: destello crema y la marca encima del dron -->
+<div class="clip capa" data-start="{{P.dron.ini}}" data-duration="1.4" data-track-index="2">
+  <div class="flash" id="flash"></div>
+  <div class="marca" id="marca"><h1 data-letras>BTHNYS</h1></div>
+</div>
+
+<!-- Un mundo, una línea -->
+<div class="clip capa" data-start="{{P.capo.ini}}" data-duration="{{P.capo.dur}}" data-track-index="3">
+  <div class="super" id="s-road" data-letras>ANY ROAD.</div>
+</div>
+<div class="clip capa" data-start="{{P.cruce.ini + PULSO}}" data-duration="{{P.cruce.dur - PULSO}}" data-track-index="3">
+  <div class="super" id="s-city" data-letras>ANY CITY.</div>
+</div>
+<div class="clip capa" data-start="{{P.estira.ini}}" data-duration="{{P.estira.dur}}" data-track-index="3">
+  <div class="super" id="s-morning" data-letras>ANY MORNING.</div>
+</div>
+<div class="clip capa" data-start="{{P.derecha.ini}}" data-duration="{{P.derecha.dur}}" data-track-index="3">
+  <div class="super" id="s-court" data-letras>ANY COURT.</div>
+</div>
+
+<!-- Ráfaga: destellos en cada corte -->
+<div class="clip capa" data-start="{{P.f1.ini}}" data-duration="{{P.f4.fin - P.f1.ini}}" data-track-index="4">
+  <div class="flash" id="fl"></div>
+</div>
+
+<!-- Las cuatro juntas -->
+<div class="clip capa" data-start="{{P.grupo.ini}}" data-duration="{{P.grupo.dur}}" data-track-index="3">
+  <div class="velo-arriba"></div>
+  <div class="super arriba" id="s-one" data-letras>ONE SET.</div>
+  <div class="super arriba dos" id="s-every" data-letras>EVERY WORLD.</div>
+</div>
+
+<!-- Cierre: el set en 3D y la marca -->
+<div class="clip capa fondo-fin" data-start="{{P.fin.ini}}" data-duration="{{P.fin.dur}}" data-track-index="5"></div>
+<div class="clip capa" data-start="{{P.fin.ini}}" data-duration="{{P.fin.dur}}" data-track-index="3">
+  <div class="fin-texto">
+    <h1 class="fin-marca" id="fin-marca" data-letras>BTHNYS</h1>
+    <div class="fin-linea" id="fin-linea"></div>
+    <div class="fin-lema" id="fin-lema">ONE SET. EVERY WORLD.</div>
+  </div>
+</div>

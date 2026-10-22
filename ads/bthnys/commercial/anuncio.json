@@ -1,0 +1,143 @@
+{
+ "titulo": "BTHNYS — One set. Every world.",
+ "formato": "horizontal",
+ "fuentes": [
+  "Cormorant Garamond:500,600,700"
+ ],
+ "musica": {
+  "archivo": "musica/musica.mp3",
+  "volumen": 0.9,
+  "fundido": 0.9
+ },
+ "planos": [
+  {
+   "id": "cintura",
+   "medio": "anuncio/planos/01_cintura.mp4",
+   "pulsos": 2,
+   "desde": 1.2
+  },
+  {
+   "id": "gafas",
+   "medio": "anuncio/planos/02_gafas.mp4",
+   "pulsos": 2,
+   "desde": 1.0
+  },
+  {
+   "id": "dron",
+   "medio": "anuncio/planos/03_dron.mp4",
+   "compases": 1,
+   "desde": 0.5
+  },
+  {
+   "id": "conduce",
+   "medio": "anuncio/planos/04_conduce.mp4",
+   "compases": 1,
+   "desde": 3.0
+  },
+  {
+   "id": "capo",
+   "medio": "anuncio/planos/05_capo.mp4",
+   "compases": 1,
+   "desde": 1.0
+  },
+  {
+   "id": "coche",
+   "medio": "anuncio/planos/06_ciudad_coche.mp4",
+   "compases": 1,
+   "desde": 2.6
+  },
+  {
+   "id": "cruce",
+   "medio": "anuncio/planos/07_ciudad_cruce.mp4",
+   "compases": 2,
+   "desde": 0.5,
+   "ritmo": 0.85
+  },
+  {
+   "id": "corre",
+   "medio": "anuncio/planos/08_parque_corre.mp4",
+   "compases": 1,
+   "desde": 0.3
+  },
+  {
+   "id": "estira",
+   "medio": "anuncio/planos/09_parque_estira.mp4",
+   "compases": 1,
+   "desde": 1.6
+  },
+  {
+   "id": "saque",
+   "medio": "anuncio/planos/11_tenis_saque.mp4",
+   "compases": 2,
+   "desde": 1.6,
+   "ritmo": 0.6
+  },
+  {
+   "id": "derecha",
+   "medio": "anuncio/planos/10_tenis_derecha.mp4",
+   "compases": 1,
+   "desde": 3.2
+  },
+  {
+   "id": "f1",
+   "medio": "anuncio/planos/05_capo.mp4",
+   "pulsos": 1,
+   "desde": 3.5
+  },
+  {
+   "id": "f2",
+   "medio": "anuncio/planos/07_ciudad_cruce.mp4",
+   "pulsos": 1,
+   "desde": 2.2
+  },
+  {
+   "id": "f3",
+   "medio": "anuncio/planos/08_parque_corre.mp4",
+   "pulsos": 1,
+   "desde": 2.5
+  },
+  {
+   "id": "f4",
+   "medio": "anuncio/planos/11_tenis_saque.mp4",
+   "pulsos": 1,
+   "desde": 2.7
+  },
+  {
+   "id": "grupo",
+   "medio": "anuncio/planos/12_grupo.mp4",
+   "compases": 2,
+   "desde": 0.5
+  },
+  {
+   "id": "fin",
+   "medio": "anuncio/planos/fin_3d.mp4",
+   "compases": 2,
+   "extra": 0.9,
+   "desde": 11.72,
+   "ritmo": 0.76
+  }
+ ],
+ "diseno": "anuncio/diseno",
+ "revisar": [
+  0.5,
+  1.3,
+  2.4,
+  4.2,
+  6.2,
+  8.0,
+  9.5,
+  13.0,
+  13.9,
+  16.5,
+  17.5,
+  19.5,
+  20.8,
+  21.6,
+  22.9,
+  25.5,
+  26.2,
+  27.5,
+  29.6
+ ],
+ "salida": "bthnys-one-set-every-world-30s.mp4"
+}

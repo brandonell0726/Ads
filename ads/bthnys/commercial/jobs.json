@@ -1,0 +1,35 @@
+{
+ "producto_ref": "0fbc44fc-c411-4477-b9e2-52089b0e1044",
+ "storyboard_3d": "a0db20c7-795f-49a0-b4bf-07190269baaf",
+ "fotogramas": {
+  "01_cintura_v1 (ribbed, discarded)": "11335bcf-11c4-40f2-80b0-d2e858c88d3a",
+  "01_cintura": "fb7b074b-dbe1-4888-b2dc-41750cecb134",
+  "02_gafas": "1c73a0af-e140-49df-9f19-bbe6bc0529fe",
+  "03_dron": "9092da0b-cece-4477-bbdb-abd1a18dc26c",
+  "04_conduce": "736373c8-a225-49c7-bf06-08a841dd0a76",
+  "06_ciudad_coche": "3067a2ce-ba07-47d8-ba4b-5b862384af82",
+  "08_parque_corre": "0a8de45f-971a-4f5a-97c3-9709c5544fa5",
+  "09_parque_estira": "168eb101-efb0-4ce3-8df4-45922db23fd2",
+  "10_tenis_derecha": "fa4850dc-3711-4242-9c63-fb1a643bf9ec",
+  "11_tenis_saque": "baf1ff22-7635-471d-ada0-cbd8f880c227",
+  "12_grupo": "4cde0693-e500-4fa7-9aa2-c1bec0aa8545",
+  "05_capo_v1 (car badges, discarded)": "a43959cf-1c74-4d58-b9d8-ca5fd283b9c8",
+  "05_capo": "056bae5c-a835-427c-8161-a83b934210ee",
+  "07_ciudad_cruce_v1 (store sign, discarded)": "582b0a73-78de-44ca-b913-c966894e2b85",
+  "07_ciudad_cruce": "2c619db5-5604-4e8c-a133-535abef5eeed"
+ },
+ "clips": {
+  "03_dron": "6257000c-c923-45e6-8b16-4f8b74b1cf44",
+  "04_conduce": "25c624f7-b148-4cf5-94c7-203f769b8c17",
+  "06_ciudad_coche": "eacb3b18-b7c4-4d9b-a1b2-c46b2190d738",
+  "08_parque_corre": "5028b6a5-3944-4b1a-b653-fffe459b10d6",
+  "10_tenis_derecha": "98b72617-ca83-45e6-805c-478558d1887c",
+  "01_cintura": "adaba29b-2992-4dd0-b07a-1cbe16631243",
+  "09_parque_estira": "b8b51a5f-77a4-40c2-9885-3e90160043ab",
+  "11_tenis_saque": "43441eca-4e6d-44b0-b48c-efaa9924f6f8",
+  "02_gafas": "c77282ac-0119-4879-8d75-8c1f9d52ecad",
+  "05_capo": "125022f8-42e6-40e1-a4ee-5dfce855912a",
+  "07_ciudad_cruce": "5c94c87a-85c8-4295-94b1-259bd0b5e951",
+  "12_grupo": "3e6280a1-1577-42b4-8270-63b3f32e0899"
+ }
+}

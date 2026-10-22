@@ -1,0 +1,33 @@
+:root {
+  --crema: #FFF4E2;
+  --taupe: #6B5F57;
+}
+
+#root > .capa { position: absolute; inset: 0; z-index: 100; }
+
+.flash { position: absolute; inset: 0; background: var(--crema); }
+
+/* La marca en la caída */
+.marca { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+.marca h1 { font: 600 250px/1 "Cormorant Garamond", serif; letter-spacing: .2em; padding-left: .2em; color: var(--crema);
+  text-shadow: 0 6px 40px rgba(0, 0, 0, .5); white-space: nowrap; }
+
+/* Las líneas de cada mundo */
+.super { position: absolute; left: 0; right: 0; bottom: 140px; text-align: center; white-space: nowrap;
+  font: 600 116px/1 "Cormorant Garamond", serif; letter-spacing: .16em; padding-left: .16em; color: var(--crema);
+  text-shadow: 0 4px 32px rgba(0, 0, 0, .5), 0 1px 3px rgba(0, 0, 0, .35); }
+.super.arriba { top: 96px; bottom: auto; }
+.velo-arriba { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20, 12, 8, .55) 0%, rgba(20, 12, 8, .25) 26%, rgba(20, 12, 8, 0) 42%); }
+.super.dos { top: 226px; }
+
+/* Cierre */
+/* fondo del cierre: una capa con tiempo justo debajo del plano final (plano 17 = z-index 27) */
+#root > .capa.fondo-fin { z-index: 26; background: linear-gradient(180deg, #E7D4BF 0%, #F2E6D5 100%); }
+#medio-fin { object-fit: contain; object-position: 80% 50%;
+  -webkit-mask-image: linear-gradient(to right, transparent 1050px, #000 1140px, #000 1567px, transparent 1657px);
+  mask-image: linear-gradient(to right, transparent 1050px, #000 1140px, #000 1567px, transparent 1657px); }
+.fin-texto { position: absolute; left: 190px; top: 0; bottom: 0; width: 1000px; display: flex; flex-direction: column;
+  justify-content: center; align-items: flex-start; }
+.fin-marca { font: 600 176px/1 "Cormorant Garamond", serif; letter-spacing: .22em; color: var(--taupe); white-space: nowrap; }
+.fin-linea { width: 560px; height: 2px; background: var(--taupe); margin: 34px 0 30px 6px; transform-origin: 0 50%; }
+.fin-lema { font: 500 44px/1 "Cormorant Garamond", serif; letter-spacing: .32em; color: var(--taupe); white-space: nowrap; padding-left: 6px; }

@@ -1,4 +1,4 @@
-# BTHNYS — "One set. Every world." 30 s, 16:9 (DRAFT, not approved)
+# BTHNYS — "One set. Every world." 30 s, 16:9 (approved 2026-10-22, produced: see README)
 
 The same cream polka-dot set crosses four worlds, each worn by a different woman. Retro-chic meets speed: warm gold light, chrome, cream fabric. Cuts every 0.5–1.5 s, all on the beat.
 
