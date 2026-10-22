@@ -1,0 +1,68 @@
+<!-- Gancho: la pregunta, antes de la caída -->
+<div class="clip capa" data-start="{{P.gancho.ini}}" data-duration="{{P.gancho.dur}}" data-track-index="2">
+  <div class="gancho">
+    <div class="g1" id="g1">¿Antojo de</div>
+    <div class="g2" id="g2">cachapa?</div>
+  </div>
+</div>
+
+<!-- Caída: el sello de la marca cae sobre la plancha, con granos de maíz que saltan -->
+<div class="clip capa" data-start="{{P.marca.ini}}" data-duration="{{P.marca.dur}}" data-track-index="3">
+  <div class="velo" id="velo"></div>
+  <div class="granos" id="granos"><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i></div>
+  <div class="sello" id="sello"><img src="{{archivo:anuncio/logo/logo-badge.png}}" alt="" /></div>
+  <div class="desde" id="desde"><span class="pill">DESDE 2006</span></div>
+</div>
+
+<!-- 100% maíz (su propia frase) -->
+<div class="clip capa" data-start="{{P.maiz.ini}}" data-duration="{{P.maiz.dur}}" data-track-index="2">
+  <div class="cien"><span class="cien-n" id="cien-n">100%</span><span class="cien-m" id="cien-m">MAÍZ</span></div>
+</div>
+
+<!-- La carta: tarjetas naranjas con aros, como las de su carta -->
+<div class="clip capa" data-start="{{P.queso.ini + COMPAS}}" data-duration="{{P.queso.dur - COMPAS}}" data-track-index="2">
+  <div class="titular" id="clasica">La clásica.</div>
+</div>
+
+<div class="clip capa" data-start="{{P.queso.ini}}" data-duration="{{P.queso.dur}}" data-track-index="4">
+  <div class="tag-wrap"><div class="tarjeta" id="t-queso"><span class="aro a1"></span><span class="aro a2"></span><div class="t-k">CACHAPA</div><div class="t-n">con queso de mano</div></div></div>
+</div>
+<div class="clip capa" data-start="{{P.mechada.ini}}" data-duration="{{P.mechada.dur}}" data-track-index="5">
+  <div class="tag-wrap"><div class="tarjeta" id="t-mechada"><span class="aro a1"></span><span class="aro a2"></span><div class="t-k">CACHAPA</div><div class="t-n">con carne mechada</div></div></div>
+</div>
+<div class="clip capa" data-start="{{P.chicharron.ini}}" data-duration="{{P.chicharron.dur}}" data-track-index="4">
+  <div class="tag-wrap"><div class="tarjeta" id="t-chicharron"><span class="aro a1"></span><span class="aro a2"></span><div class="t-k">CACHAPA</div><div class="t-n">con chicharrón</div></div></div>
+</div>
+<div class="clip capa" data-start="{{P.tajada.ini}}" data-duration="{{P.tajada.dur}}" data-track-index="5">
+  <div class="tag-wrap"><div class="tarjeta" id="t-tajada"><span class="aro a1"></span><span class="aro a2"></span><div class="t-k">CACHAPA</div><div class="t-n">con tajada y queso</div></div></div>
+</div>
+
+<!-- Ráfaga: una palabra por golpe -->
+<div class="clip capa" data-start="{{P.r1.ini}}" data-duration="{{P.r1.dur}}" data-track-index="2"><div class="rafaga" id="w1">DORADITA</div></div>
+<div class="clip capa" data-start="{{P.r2.ini}}" data-duration="{{P.r2.dur}}" data-track-index="3"><div class="rafaga" id="w2">CALIENTICA</div></div>
+<div class="clip capa" data-start="{{P.r3.ini}}" data-duration="{{P.r3.dur}}" data-track-index="2"><div class="rafaga" id="w3">CRUJIENTE</div></div>
+<div class="clip capa" data-start="{{P.r4.ini}}" data-duration="{{P.r4.dur}}" data-track-index="3"><div class="rafaga" id="w4">SABROSA</div></div>
+
+<!-- Nata y prueba -->
+<div class="clip capa" data-start="{{P.nata.ini}}" data-duration="{{COMPAS}}" data-track-index="2">
+  <div class="nota">
+    <div><span class="n1" id="n1">¿Nata extra?</span></div>
+    <div class="pega-wrap"><span class="pega" id="obvio">¡Obvio!</span></div>
+  </div>
+</div>
+<div class="clip capa" data-start="{{P.nata.ini + COMPAS}}" data-duration="{{P.nata.dur - COMPAS}}" data-track-index="3">
+  <div class="rating-wrap"><div class="rating" id="rating"><div class="r-num">4.6 <span class="estrella">★</span></div><div class="r-txt">54 reseñas en Google</div></div></div>
+</div>
+
+<!-- Cierre: sello, su lema y cómo llegar -->
+<div class="clip capa" data-start="{{P.cierre.ini}}" data-duration="{{P.cierre.dur}}" data-track-index="2">
+  <div class="c-velo" id="c-velo"></div>
+  <div class="granos granos-c" id="granos-c"><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i><i class="grano"></i></div>
+  <div class="c-sello" id="c-sello"><img src="{{archivo:anuncio/logo/logo-badge.png}}" alt="" /></div>
+  <div class="c-lema" id="c-lema" data-palabras>Una cachapa nunca<br/>había sido tan <em>cool</em></div>
+  <div class="c-info"><div class="ci-box" id="c-info">
+    <div class="ci-dir">44079 US-27 · Davenport, FL</div>
+    <div class="ci-hor">Mié y Jue 3–9 PM · Vie a Dom 12–10 PM</div>
+    <div class="ci-web">cachapasdandrea.com</div>
+  </div></div>
+</div>

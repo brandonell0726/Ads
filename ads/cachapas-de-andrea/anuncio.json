@@ -1,0 +1,119 @@
+{
+ "titulo": "Cachapas De Andrea — Davenport",
+ "formato": "vertical",
+ "fuentes": [
+  "Lilita One:400",
+  "Barlow Condensed:600,700,800"
+ ],
+ "musica": {
+  "archivo": "musica/musica.mp3",
+  "volumen": 0.95,
+  "fundido": 0.8
+ },
+ "planos": [
+  {
+   "id": "gancho",
+   "medio": "anuncio/planos/01_maiz.mp4",
+   "compases": 1,
+   "desde": 0.2
+  },
+  {
+   "id": "marca",
+   "medio": "anuncio/planos/02_plancha.mp4",
+   "compases": 2,
+   "desde": 0.2,
+   "ritmo": 0.7
+  },
+  {
+   "id": "maiz",
+   "medio": "anuncio/planos/03_vuelta.mp4",
+   "compases": 1,
+   "desde": 1.6
+  },
+  {
+   "id": "queso",
+   "medio": "anuncio/planos/04_queso.mp4",
+   "compases": 2,
+   "desde": 0.3,
+   "ritmo": 0.95
+  },
+  {
+   "id": "mechada",
+   "medio": "anuncio/planos/05_mechada.mp4",
+   "compases": 1,
+   "desde": 2.2
+  },
+  {
+   "id": "chicharron",
+   "medio": "anuncio/planos/06_chicharron.mp4",
+   "compases": 1,
+   "desde": 2.4
+  },
+  {
+   "id": "tajada",
+   "medio": "anuncio/planos/07_tajada.mp4",
+   "compases": 1,
+   "desde": 0.2
+  },
+  {
+   "id": "r1",
+   "medio": "anuncio/planos/03_vuelta.mp4",
+   "pulsos": 2,
+   "desde": 3.7
+  },
+  {
+   "id": "r2",
+   "medio": "anuncio/planos/02_plancha.mp4",
+   "pulsos": 2,
+   "desde": 3.6
+  },
+  {
+   "id": "r3",
+   "medio": "anuncio/planos/06_chicharron.mp4",
+   "pulsos": 2,
+   "desde": 0.3
+  },
+  {
+   "id": "r4",
+   "medio": "anuncio/planos/05_mechada.mp4",
+   "pulsos": 2,
+   "desde": 0.2
+  },
+  {
+   "id": "nata",
+   "medio": "anuncio/planos/08_nata.mp4",
+   "compases": 2,
+   "desde": 0.3,
+   "ritmo": 0.95
+  },
+  {
+   "id": "cierre",
+   "medio": "anuncio/planos/09_mesa.mp4",
+   "compases": 3,
+   "extra": 1.2,
+   "desde": 0.2,
+   "ritmo": 0.6
+  }
+ ],
+ "diseno": "anuncio/diseno",
+ "salida": "cachapas-de-andrea-anuncio.mp4",
+ "revisar": [
+  1.35,
+  2.9,
+  4.89,
+  7.9,
+  9.5,
+  11.43,
+  14.44,
+  16.63,
+  18.81,
+  20.31,
+  21.4,
+  22.49,
+  23.59,
+  25.4,
+  26.71,
+  29.7,
+  33.17
+ ]
+}

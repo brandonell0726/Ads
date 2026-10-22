@@ -36,9 +36,12 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
 - `leads/do-not-contact.md`: opt-outs
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
+- `ads/cachapas-de-andrea/`: Cachapas De Andrea (Venezuelan cachapa truck, US-27 Davenport) sample reels, 36 s and 16 s, all text in Spanish: design source, plan, notes and links. See its README.
 
 ## Working in Claude Code cloud sessions
 
-- The session's network blocks most websites (Google Maps, business sites, Higgsfield's upload server and CDN, Mixkit). Web search works.
-- Higgsfield's `sandbox_exec` has open internet plus ffmpeg, node and Chromium. Download clips and music there, render HyperFrames there, then upload the result with `media_upload` and a curl PUT from the sandbox.
+- Network access changes between sessions. On 2026-10-21 most sites were blocked. On 2026-10-22 Google Maps short links, Google photo URLs, business sites, Google Fonts, Mixkit, npm and Higgsfield's CDN and upload server all worked, so the video skill installed and rendered locally. Test with curl first.
+- If they're blocked, Higgsfield's `sandbox_exec` has open internet plus ffmpeg, node and Chromium. Download clips and music there, render HyperFrames there, then upload the result with `media_upload` and a curl PUT from the sandbox.
+- Google Maps opened with Playwright in the sandbox gives a limited view: name, address, hours, about 11 photos and 5 reviews. Uber Eats blocks automated browsers.
+- Upload PUTs to Higgsfield need the header `If-None-Match: *`.
 - Photos Brandon drops into the chat can't be read by Higgsfield. Use `media_upload_widget` so he uploads them straight to Higgsfield.

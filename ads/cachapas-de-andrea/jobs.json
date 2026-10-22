@@ -1,0 +1,32 @@
+{
+ "fotogramas": {
+  "01_maiz": "0deb4633-32f9-489f-8dad-0ebb41e9898d",
+  "02_plancha": "f5247e5e-cca2-449d-8bbc-b8a04448ced0",
+  "03_vuelta": "c7d192a5-c781-46de-8f68-db363f085ccd",
+  "04_queso": "e05d1e9d-e8cb-4f95-923c-b1d456755da3",
+  "05_mechada": "893b8905-1452-4737-b7ea-d9314718ab6e",
+  "06_chicharron": "6bd32af3-d865-44a1-9449-3c7231efcfcc",
+  "07_tajada": "205342d9-1334-4f9d-ae9e-4d0f448ae123",
+  "08_nata": "c34989d2-dccc-4f67-a337-19e611128fc2",
+  "09_mesa": "7acb021c-16c3-4661-b3ff-1cce4f7a78ff"
+ },
+ "referencias": {
+  "W01_hero": "7540e690-6a39-4635-aa6e-79f762281051",
+  "M01_mechada": "ac92debe-4a9a-4f5f-9c08-b48ab6cf47f4",
+  "M10_chicharron": "38724e4d-1e01-48fa-a5c7-2122c2f76fac",
+  "M11_tajada": "bb72669e-8bef-4df9-b83b-2467cd084ff4",
+  "M09_tajada_carta": "af2fbeb6-c5e8-4624-9344-19221d31accc"
+ },
+ "clips": {
+  "01_maiz": "a3319ace-d63b-44b8-836c-b2eb4b401916",
+  "02_plancha": "65d33db1-95bc-47ee-8dde-d4fe338599dd",
+  "03_vuelta": "51936268-1863-4054-a20a-0c4cc55d649f",
+  "04_queso": "96663feb-fcde-48e6-a452-26bb3542305a",
+  "05_mechada": "d956d7e8-1cd1-4612-80d0-880f76150be9",
+  "06_chicharron": "a3552901-f9cb-4e90-9a52-fcd9fc03a4c0",
+  "07_tajada": "39f26136-2546-42b2-b99c-ed70d62b348b",
+  "08_nata": "c295df98-26df-4ba6-b893-21a283f28b70",
+  "09_mesa": "86d36277-37cb-414a-a5d2-a394e0f9a357"
+ },
+ "logo_upscale": "58569018-feb3-4f0a-98ad-366c97e756b8"
+}

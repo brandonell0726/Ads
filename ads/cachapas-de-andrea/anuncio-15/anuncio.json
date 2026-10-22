@@ -1,0 +1,66 @@
+{
+ "titulo": "Cachapas De Andrea — Davenport (15 s)",
+ "formato": "vertical",
+ "fuentes": [
+  "Lilita One:400",
+  "Barlow Condensed:600,700,800"
+ ],
+ "musica": {
+  "archivo": "musica/musica.mp3",
+  "volumen": 0.95,
+  "fundido": 0.6,
+  "inicio": 35.385
+ },
+ "planos": [
+  {
+   "id": "gancho",
+   "medio": "anuncio/planos/01_maiz.mp4",
+   "compases": 1,
+   "desde": 0.2
+  },
+  {
+   "id": "marca",
+   "medio": "anuncio/planos/02_plancha.mp4",
+   "compases": 1,
+   "desde": 0.2,
+   "ritmo": 0.8
+  },
+  {
+   "id": "queso",
+   "medio": "anuncio/planos/04_queso.mp4",
+   "compases": 1,
+   "desde": 0.5
+  },
+  {
+   "id": "mechada",
+   "medio": "anuncio/planos/05_mechada.mp4",
+   "compases": 1,
+   "desde": 2.2
+  },
+  {
+   "id": "chicharron",
+   "medio": "anuncio/planos/06_chicharron.mp4",
+   "compases": 1,
+   "desde": 2.4
+  },
+  {
+   "id": "cierre",
+   "medio": "anuncio/planos/09_mesa.mp4",
+   "compases": 2,
+   "extra": 1.0,
+   "desde": 0.2,
+   "ritmo": 0.85
+  }
+ ],
+ "diseno": "anuncio-15/diseno",
+ "revisar": [
+  1.35,
+  3.3,
+  5.6,
+  7.8,
+  9.9,
+  12.0,
+  14.8
+ ],
+ "salida": "cachapas-de-andrea-15s.mp4"
+}
