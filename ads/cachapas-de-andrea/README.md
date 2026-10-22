@@ -7,16 +7,18 @@ A free sample made to pitch them. **Don't post it as their ad without their OK.*
 
 | Version | Full quality | Lighter (WhatsApp, email) |
 |---|---|---|
-| 36 s reel, 1080×1920 | [55 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/09cf9ad4-d0e8-4e00-993d-ae9b60a4e1b9.mp4) (media `09cf9ad4-d0e8-4e00-993d-ae9b60a4e1b9`) | [15.5 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/a82f47b5-2209-4346-9c1a-fd1b184e1198.mp4) (media `a82f47b5-2209-4346-9c1a-fd1b184e1198`) |
-| 16 s cut, 1080×1920 | [25 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/454514f4-ea9d-44d0-8d61-eab700b85763.mp4) (media `454514f4-ea9d-44d0-8d61-eab700b85763`) | [6.7 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/8007af1c-9618-4047-b6d7-28ba0908d4f0.mp4) (media `8007af1c-9618-4047-b6d7-28ba0908d4f0`) |
+| 36 s reel, 1080×1920 (v2) | [53 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/af3ab623-6701-4b61-b1eb-aae364d930b3.mp4) (media `af3ab623-6701-4b61-b1eb-aae364d930b3`) | [15 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/4297c073-8c7c-4375-a1e8-63597ca28d44.mp4) (media `4297c073-8c7c-4375-a1e8-63597ca28d44`) |
+| 16 s cut, 1080×1920 (v2) | [25 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/64891cc3-d355-429d-9fc8-0f5316025d3a.mp4) (media `64891cc3-d355-429d-9fc8-0f5316025d3a`) | [6.5 MB](https://d2ol7oe51mr4n9.cloudfront.net/user_3KLFV0cEMmZSg7ppr0pWGFB5JyS/b71dbb4d-8e84-4d80-aec2-34b734a23845.mp4) (media `b71dbb4d-8e84-4d80-aec2-34b734a23845`) |
 
-Cost: 98.75 Higgsfield credits (3,856.10 → 3,757.35), about $4 on the Ultra plan. That's 9 stills, 9 clips and one logo upscale. The 16 s cut reuses the same clips, so it cost nothing extra.
+v2 replaces the griddle scene. Brandon pointed out that v1 poured batter onto a cachapa that was already cooked. The v1 files are still in Higgsfield (media `09cf9ad4…`, `a82f47b5…`, `454514f4…`, `8007af1c…`), but don't use them.
+
+Cost: 111.50 Higgsfield credits (3,856.10 → 3,744.60), about $4.50 on the Ultra plan. That's 9 stills, 9 clips and one logo upscale, plus a redo of the griddle scene (2 stills and 1 clip). In the first version the batter was poured onto a cachapa that was already cooked, which made no sense. Its jobs are kept under `descartados` in `jobs.json`. The 16 s cut reuses the same clips, so it cost nothing extra.
 
 ## The idea
 
 All on-screen text is in Spanish (Brandon's choice). It uses their own tagline, "Una cachapa nunca había sido tan cool", and the look of their logo: navy badge, gold lettering, corn.
 
-Hook ("¿Antojo de cachapa?" over corn being cut) → on the beat drop their badge stamps onto the griddle, kernels fly out, "DESDE 2006" → the flip, "100% MAÍZ" → their menu as orange cards on two binder rings, like the tags on their real menu board: con queso de mano ("La clásica."), con carne mechada, con chicharrón, con tajada y queso → a quick four-cut burst: DORADITA / CALIENTICA / CRUJIENTE / SABROSA → nata dip, "¿Nata extra? ¡Obvio!" → 4.6★ from 54 Google reviews → badge, tagline, address, hours and website over a table at dusk.
+Hook ("¿Antojo de cachapa?" over corn being cut) → on the beat drop their badge stamps onto the griddle, where raw batter is being spread, kernels fly out, "DESDE 2006" → the flip, "100% MAÍZ" → their menu as orange cards on two binder rings, like the tags on their real menu board: con queso de mano ("La clásica."), con carne mechada, con chicharrón, con tajada y queso → a quick four-cut burst: DORADITA / CALIENTICA / CRUJIENTE / SABROSA → nata dip, "¿Nata extra? ¡Obvio!" → 4.6★ from 54 Google reviews → badge, tagline, address, hours and website over a table at dusk.
 
 - `anuncio.json`: shot plan for the 36 s reel (order, bars per shot, where each clip starts)
 - `diseno/`: text and graphics (`capas.html`, `estilo.css`, `animacion.js`)
@@ -30,7 +32,7 @@ Hook ("¿Antojo de cachapa?" over corn being cut) → on the beat drop their bad
 | Scene | Still job | Clip job |
 |---|---|---|
 | 01 Corn cut off the cob | 0deb4633-32f9-489f-8dad-0ebb41e9898d | a3319ace-d63b-44b8-836c-b2eb4b401916 |
-| 02 Batter on the griddle | f5247e5e-cca2-449d-8bbc-b8a04448ced0 | 65d33db1-95bc-47ee-8dde-d4fe338599dd |
+| 02 Batter spread on the griddle (v2) | 191f1615-9c02-4df0-9c47-eb1b15bc0162 | 93cf077c-eb18-4030-8e96-772e90546464 |
 | 03 Cachapa flip | c7d192a5-c781-46de-8f68-db363f085ccd | 51936268-1863-4054-a20a-0c4cc55d649f |
 | 04 Queso de mano | e05d1e9d-e8cb-4f95-923c-b1d456755da3 | 96663feb-fcde-48e6-a452-26bb3542305a |
 | 05 Carne mechada | 893b8905-1452-4737-b7ea-d9314718ab6e | d956d7e8-1cd1-4612-80d0-880f76150be9 |

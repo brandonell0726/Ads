@@ -1,7 +1,7 @@
 {
  "fotogramas": {
   "01_maiz": "0deb4633-32f9-489f-8dad-0ebb41e9898d",
-  "02_plancha": "f5247e5e-cca2-449d-8bbc-b8a04448ced0",
+  "02_plancha": "191f1615-9c02-4df0-9c47-eb1b15bc0162",
   "03_vuelta": "c7d192a5-c781-46de-8f68-db363f085ccd",
   "04_queso": "e05d1e9d-e8cb-4f95-923c-b1d456755da3",
   "05_mechada": "893b8905-1452-4737-b7ea-d9314718ab6e",
@@ -19,7 +19,7 @@
  },
  "clips": {
   "01_maiz": "a3319ace-d63b-44b8-836c-b2eb4b401916",
-  "02_plancha": "65d33db1-95bc-47ee-8dde-d4fe338599dd",
+  "02_plancha": "93cf077c-eb18-4030-8e96-772e90546464",
   "03_vuelta": "51936268-1863-4054-a20a-0c4cc55d649f",
   "04_queso": "96663feb-fcde-48e6-a452-26bb3542305a",
   "05_mechada": "d956d7e8-1cd1-4612-80d0-880f76150be9",
@@ -28,5 +28,12 @@
   "08_nata": "c295df98-26df-4ba6-b893-21a283f28b70",
   "09_mesa": "86d36277-37cb-414a-a5d2-a394e0f9a357"
  },
- "logo_upscale": "58569018-feb3-4f0a-98ad-366c97e756b8"
+ "logo_upscale": "58569018-feb3-4f0a-98ad-366c97e756b8",
+ "descartados": {
+  "02_plancha_v1 (batter poured on an already-cooked cachapa)": {
+   "fotograma": "f5247e5e-cca2-449d-8bbc-b8a04448ced0",
+   "clip": "65d33db1-95bc-47ee-8dde-d4fe338599dd"
+  },
+  "02_plancha pour still (brand letters on griddle handle)": "58fe1571-96b3-4bed-a1ff-eaeff00758aa"
+ }
 }
