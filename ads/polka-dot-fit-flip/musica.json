@@ -1,0 +1,5 @@
+{"titulo": "Cat Walk", "artista": "Arulo", "fuente": "Mixkit", "mp3": "https://assets.mixkit.co/music/371/371.mp3",
+ "licencia": "Mixkit Stock Music Free License", "licencia_url": "https://mixkit.co/license/#musicFree", "atribucion_obligatoria": false,
+ "ritmo": {"bpm": 129.2, "inicio": 29.536, "caida": 29.546},
+ "kicks": [29.546, 30.007, 30.469, 30.93, 31.392, 31.853, 32.315, 32.776, 33.238, 33.699, 34.161, 34.625, 35.089, 35.554, 36.018, 36.483, 36.947],
+ "T": 0.4625850340136053}

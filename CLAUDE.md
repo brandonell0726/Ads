@@ -36,6 +36,8 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
 - `leads/do-not-contact.md`: opt-outs
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
+- `ads/ugc-sneaker-sample/`: Brandon's own UGC portfolio sample (logo-free sneaker, 3 videos).
+- `ads/polka-dot-fit-flip/`: paid client ad (2026-10-26), an AI-model fit-flip of her polka-dot athleisure line, copying the format of her reference video. Shot list, build script, job IDs. See its README.
 
 ## Working in Claude Code cloud sessions
 
