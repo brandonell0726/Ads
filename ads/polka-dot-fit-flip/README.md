@@ -7,14 +7,18 @@ The model is AI-generated (fictional, not the woman in her photos). The clothes 
 ## Brief
 
 - Format copied from the reference video she sent (a screen recording of another brand's ad): one model stands centered and still, full body, while the outfit changes on the beat; the backdrop alternates grey and pink; no talking, no text.
-- 1 video, 9:16, 1080×1920, 30 fps, **7.8 s**, 30 shots.
-- Opens on the music drop and holds the cream set for 1 beat, then cuts every half beat (a quarter-beat burst at the end of bar 2). Every look appears on both backdrops. It ends on a 2-beat hold of the cream set on pink, where she breaks into a small smile.
+- 1 video, 9:16, 1080×1920, 30 fps, **9.6 s**, 19 shots (v2).
+- Opens on the music drop, then **one outfit per beat** (about 0.46 s each), so viewers can actually see the clothes. Every look appears on both backdrops. She keeps a calm, serious, closed-mouth model face throughout and ends on a 2-beat hold of the cream set on pink, where she eases into a closed-mouth smile.
 
-## Final video
+## Final video (v2, current)
 
-- Higgsfield media `9f2fe29d-d856-45bc-a0a8-d45f09d3a27a` (`polka-dot-fit-flip.mp4`). The link was shared in chat; it isn't kept here because this repo is public and the ad isn't released.
-- Earlier render `2231af74-cc82-4e91-89fa-885f512b22d6`: same edit, but the audio peaked slightly over 0 dB. Don't use it.
-- Cost: about 125 Higgsfield credits (1,627.39 → 1,502.16), roughly $5 on the Ultra plan.
+- Higgsfield media `5348e88e-60e5-48bc-9739-72e796f26b46` (`polka-dot-fit-flip-v2.mp4`). The link was shared in chat; it isn't kept here because this repo is public and the ad isn't released.
+- Why v2: Brandon's feedback on v1 was "slow it down a little so people can see the clothes" and "her breathing makes her face look weird; make her smile or keep a serious face". All clips were re-made with the still image as both the first and last frame, which keeps her nearly motionless.
+- Cost: v1 about 125 credits (1,627.39 → 1,502.16), v2 about 132 more (→ 1,370.41). Clips with both a start and an end frame cost more than start-only clips. Total roughly $10 on the Ultra plan.
+
+### v1 (superseded)
+
+- `9f2fe29d-d856-45bc-a0a8-d45f09d3a27a`: 7.8 s, 30 shots, cut every half beat; her breathing opened her mouth in some shots. `2231af74-cc82-4e91-89fa-885f512b22d6`: same but the audio peaked over 0 dB.
 
 ## Her uploads (Higgsfield media)
 
@@ -45,27 +49,31 @@ Looks (Nano Banana Pro, 2K, 9:16). `A_grey` is the anchor; every other look was 
 | D navy sports bra + shorts, white headband, socks | c00ed051-96e9-476b-9a8f-1dbcc9b5d084 | a7a9c1f3-4a0a-493e-a149-927915951539 |
 | E black cami + black wide-leg pants, cream sandals | ff1a8832-915d-4b18-b840-96adaae24214 | 3fd5482e-9bcc-4ae3-b34d-e47c2698f784 |
 
-## Clips (Kling 3.0 pro, silent, locked-off camera, subtle idle motion)
+Smiling end frame for the hero shot (A pink, closed-mouth smile): `ba2734b9-cbaa-4a8f-8b4e-54d45e2c1402`.
 
-| Clip | Job |
-|---|---|
-| Ag | b644d712-5f17-4323-84f9-2b66c705a50f |
-| Bg | 24d3dd56-b7c1-4b07-bad1-7bba4a6f7e3e |
-| Cg | a801bb40-a7e1-443d-aa84-ae04c07305ac |
-| Dg | 60e13cfb-4fa5-4462-af5a-7c46fc5a4fc5 |
-| Eg | 25a9360c-8ee4-45b9-97cf-62721521937d |
-| Ap | e252e0b3-50d5-435b-9bd9-05b699558af7 |
-| Bp | aeda83a3-f2b9-4abb-bda6-10a44fd56ab4 |
-| Cp | ac26f000-73ad-42e1-a4b6-5dddc7f79bef |
-| Dp | 025e15b4-4427-4825-9da7-96ae3fea4716 |
-| Ep | 007ef76a-5f19-4991-bfdc-1cd6f4be4227 |
-| Hero (Ap, 5 s, small smile from about 2.4 s) | 85c2166e-949f-448f-a1c7-b16ea5f0528d |
+## Clips v2 (Kling 3.0 pro, 3 s, silent, still image as start and end frame, serious closed-mouth face)
 
-Known flaw: in both D clips (navy sports bra) the stomach sucks in unnaturally after about 0.5 s. The edit only uses their first 0.25 s; keep D offsets under 0.25 if you re-cut.
+| Clip | Job | Blink frames to avoid (24 fps) |
+|---|---|---|
+| Ag | 57bf2512-a1f0-430d-a8d2-29bf5a27a1da | ~51–59 |
+| Bg | 6497f892-3e9a-4b92-9d75-5c5f2b8443e5 | ~17–25 |
+| Cg | 95ba181e-4c24-48c2-92b6-6f0763118024 | ~12–38 |
+| Dg | d13c9007-726d-4402-922b-48eecd00a0f4 | ~12–20 |
+| Eg | 44bf9a70-2efc-4bcb-95c0-32f496435118 | ~26–34 |
+| Ap | 30136364-9109-41dc-98a8-a42f2b752b8d | ~10–18 |
+| Bp | 5f833937-5297-4636-b769-76e2b896c347 | none |
+| Cp | 31bd7cff-5904-4478-b31c-e9bfc6fc878c | ~22–30 |
+| Dp | 2f4febbb-57d0-4add-ae4a-f4f88a6c1f08 | ~25–34 |
+| Ep | d8d9a4dd-4732-4ebd-8cf0-ebf75f069fe4 | ~28–36 |
+| Hero (Ap → smile end frame) | 669ea32e-a8c0-4265-af76-9c4ef22c9c54 | blink ~56–60; smile builds from ~0.8 s, so use 0.85–2.2 s |
+
+The offsets in `edl.json` were picked to miss every blink. The stomach glitch in the v1 navy sports-bra clips is gone in v2.
+
+v1 clips (breathing motion, superseded): Ag b644d712-5f17-4323-84f9-2b66c705a50f, Bg 24d3dd56-b7c1-4b07-bad1-7bba4a6f7e3e, Cg a801bb40-a7e1-443d-aa84-ae04c07305ac, Dg 60e13cfb-4fa5-4462-af5a-7c46fc5a4fc5, Eg 25a9360c-8ee4-45b9-97cf-62721521937d, Ap e252e0b3-50d5-435b-9bd9-05b699558af7, Bp aeda83a3-f2b9-4abb-bda6-10a44fd56ab4, Cp ac26f000-73ad-42e1-a4b6-5dddc7f79bef, Dp 025e15b4-4427-4825-9da7-96ae3fea4716, Ep 007ef76a-5f19-4991-bfdc-1cd6f4be4227, Hero 85c2166e-949f-448f-a1c7-b16ea5f0528d.
 
 ## Re-cutting (no credits)
 
-- `edl.json`: the shot list (clip, start offset in the clip, length in beats)
+- `edl.json`: the v2 shot list (clip, start offset in the clip, length in beats); the clips live in the sandbox at `~/bthnys/edit/v2/clips/`
 - `build.py`: renders the edit in the Higgsfield sandbox (`sandbox_exec`), with cuts locked to the music's kick grid
 - `musica.json`: "Cat Walk" by Arulo (Mixkit Stock Music Free License: commercial use OK, credit not required), 129.2 BPM, starts on the drop at 29.536 s
 
