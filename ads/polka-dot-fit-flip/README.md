@@ -14,7 +14,7 @@ The model is AI-generated (fictional, not the woman in her photos). The clothes 
 
 - Higgsfield media `5348e88e-60e5-48bc-9739-72e796f26b46` (`polka-dot-fit-flip-v2.mp4`). The link was shared in chat; it isn't kept here because this repo is public and the ad isn't released.
 - Why v2: Brandon's feedback on v1 was "slow it down a little so people can see the clothes" and "her breathing makes her face look weird; make her smile or keep a serious face". All clips were re-made with the still image as both the first and last frame, which keeps her nearly motionless.
-- Cost: v1 about 125 credits (1,627.39 → 1,502.16), v2 about 132 more (→ 1,370.41). Clips with both a start and an end frame cost more than start-only clips. Total roughly $10 on the Ultra plan.
+- Cost, from the Higgsfield transaction list (the balance alone overstated it, because other work on the account was spending credits at the same time): v1 87.73 credits (4 Soul faces 0.48, 13 Nano Banana Pro images 26, 11 Kling clips 61.25); v2 59.75 credits (1 Nano Banana Pro image 2, 11 Kling 3 s pro clips at 5.25 each). Total 147.48 credits, roughly $6. A start+end-frame Kling clip costs the same 5.25 as a start-only one.
 
 ### v1 (superseded)
 
