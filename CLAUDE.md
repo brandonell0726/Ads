@@ -36,6 +36,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
 - `leads/do-not-contact.md`: opt-outs
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
+- `reports/AI ad maker app for restaurants.md`: research report and plan for Brandon's self-serve AI ad app idea: competitors, pricing, credits, costs, ad styles, go-to-market and a phased plan (2026-11-04). Its sources and fact-checks are in `research_notes/AI ad maker app for restaurants/`.
 
 ## Working in Claude Code cloud sessions
 
