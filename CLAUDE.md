@@ -37,6 +37,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/do-not-contact.md`: opt-outs
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
 - `reports/AI ad maker app for restaurants.md`: research report and plan for Brandon's self-serve AI ad app idea: competitors, pricing, credits, costs, ad styles, go-to-market and a phased plan (2026-11-04). Its sources and fact-checks are in `research_notes/AI ad maker app for restaurants/`.
+- `reports/Passive income ideas Claude can build.md`: research report on passive income options (AdSense sites, Amazon affiliate pages, apps, faceless video, digital products, trends, taxes and scams), recommending one bilingual food-business site (free tools + promo kits, plus a Central Florida food-truck guide) that feeds the ad business, with a plan through May 2027 (2026-11-04). Sources and fact-checks are in `research_notes/Passive income ideas Claude can build/`.
 
 ## Working in Claude Code cloud sessions
 
