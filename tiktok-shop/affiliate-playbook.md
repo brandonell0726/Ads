@@ -295,6 +295,129 @@ Higgsfield's TikTok publish tool has fields for the AI label and the ad disclosu
 
 ---
 
+## 11. Launch plan: Home & Kitchen, voiceover over real footage (made 2026-11-05)
+
+**The format:**
+- Brandon's own voice over real footage of the real product, with his hands in the shot.
+- No face, no AI people, no AI-rendered products.
+- Allowed under US rules. The one official headwind is the "show your face" line. Keeping hands, real interaction and camera movement on screen lowers that risk.
+
+### Why Home & Kitchen
+Compared against car care and gifts/tech (sales data from FastMoss, FindNiche and EchoTik, checked against live listings on 2026-11-05):
+
+- **It's the least crowded category.** Home Supplies sold $104.6M in September 2026 (4.3% of US Shop sales, up 10.8% on August), and half of that came from videos. The top 10 shops sold only about 13% of units in the week of Oct 19–25. A small account has room.
+- **Q4 is its peak.** Last year Home Supplies sold 2.14× its usual monthly volume in Oct–Dec, and kitchen sales peaked in December. Units jumped 35.6% from October to November.
+- **It suits voiceover.** The proof is the footage: dirt comes off, lint comes out. Your own Florida house is the set (lanai slider, pool deck, dryer, front-loader).
+- **The downsides:**
+  - Small payouts. The average item is about $19, so expect $2–3 a sale. You need volume.
+  - Many sellers are overseas with 75–89% positive feedback.
+- **The other lanes:**
+  - Car care: good demos, but a small category, and the hits cost $55–60.
+  - Gifts/tech: electronics usually pays only 5–8% commission.
+  - Car care could be account #2 later.
+
+### First 10 products to check
+Prices and sales are from live listings on 2026-11-05. Commission is **unknown**. Check every product in **Creator Center → Product Marketplace** first. In the pilot you only see products from shops with a Shop Performance Score of 95%+, so **if it isn't in your marketplace, skip it.**
+
+| # | Product | Price | Sales signal | Video angle | Watch out |
+|---|---|---|---|---|---|
+| 1 | **SOPAMI 360° Rotating Gap Cleaning Tool** | $16.99 | #1 Home Supplies product by units, Oct 19–25 (FastMoss); 98K sold | Sand and pollen in the lanai slider track, one pass | Peaking now; China seller, 80% positive feedback |
+| 2 | **Sealegend Dryer Vent Cleaner Kit** (5 pc) | $15.99 | 1.64K orders in 7 days, #5 trending home (FindNiche, Nov 1) | Lint pulled from past the lint trap, laid on a black towel | Never say "prevents fires" or "dries faster" |
+| 3 | **Rechargeable Fabric Shaver** (2 blades) | $11.98 | 187K sold, 4.5★ | Pilled blanket or couch, split before/after → gift | Don't quote battery life; charge with a normal 5V brick |
+| 4 | **SUSTEAS Rotary Cheese Grater** | $29.99 | 533K sold, 4.7★, US LLC | Thanksgiving mac & cheese prep | No soft foods; link SUSTEAS's own listing, not a copy |
+| 5 | **AIR U 3-in-1 Floor Scrub Brush** | $22.99 | 174K sold, 4.5★ | Florida pool deck / pavers, one stripe | Test that the handle locks; no "kills mold" |
+| 6 | **Dovety PowerSpin Cordless Scrubber** | $38.99 | 287K sold, 4.6★ | Grout or tub ring, half done | **The $38.99 default is 4 heads with no handle.** Pick the full kit |
+| 7 | **ACTIVE Mold Stain Remover Gel** | $24.99 | 91K sold, US LLC | Front-loader gasket before/after | Say **"stain remover" only**. "Kills mold" or "disinfects" needs EPA registration. Gloves, ventilation |
+| 8 | **SOPAMI Toilet Scrubber Kit** (32 pads) | $17.98 | 214K sold, 4.6★ | Click on, scrub, drop the pad straight in the trash | No "kills germs" or "sanitizes" |
+| 9 | **Handheld Milk Frother** (3 heads) | $13.99 | 34K sold, 4.6★ | Iced-coffee cold foam in slow-mo → stocking stuffer | Don't name coffee chains or claim savings |
+| 10 | **Frost Buddy Universal XL** | $40.49 | 710 orders in 7 days, #7 kitchen (FindNiche) | Same can, same Florida sun, 30 minutes | Top of the budget; only state results you filmed |
+
+**Buy first (about $45):** #1, #2 and #3. Add #4 (about $30) in time for Thanksgiving (Nov 26).
+
+### Rules for every video
+- **The product is visible in the first frame.** State its value in the first 3 seconds (TikTok Shop Academy).
+- **15–40 seconds.** Anything under 8 seconds doesn't count toward early exit from the pilot.
+- **Spoken + on-screen CTA:** "Tap the product link."
+- **Disclosure:**
+  - Say "#ad" or "I earn a commission" out loud **and** put it on screen.
+  - Turn on the **commercial content toggle**. TikTok's Branded Content Policy (Oct 30, 2026) counts affiliate commission as branded content.
+- **Music:** your voice only, or a **Commercial Sounds** (Commercial Music Library) track mixed low. **No trending copyrighted songs.**
+- **Words:** say the product's plain name early ("sliding door track cleaner") so it shows up in TikTok search.
+- **Prices:** no price in the voiceover. Mention a deal only if it's live that day (Black Friday runs Nov 11–30).
+- **Scripts:** a fresh script every video. **If the product doesn't work on camera, don't post it.**
+
+### First 5 scripts
+Lines in [brackets] are true only after you test the product, so check them before you record. Swap in your own wording if it sounds more like you.
+
+**1 · Gap cleaning tool: "Florida slider track"**
+| Time | Footage | Voiceover |
+|---|---|---|
+| 0–2s | Tool tip in frame at the dirty lanai track (macro) | "This is what Florida does to your sliding door track." |
+| 2–10s | One slow pass, then lift the brush full of gunk | "One pass with this gap cleaning tool. The head rotates, so it gets the corners." |
+| 10–16s | Clean half next to the dirty half, then a window track | "Works on the window tracks too. [Only thing: one honest downside you noticed.]" |
+| 16–20s | Extend the handle, product in hand | "It's in the product link. I earn a commission if you grab it." |
+
+On-screen: "sliding door track cleaner" · "#ad"
+
+**2 · Dryer vent kit: "the lint trap lies"**
+| Time | Footage | Voiceover |
+|---|---|---|
+| 0–2s | Kit in hand next to the dryer, pull the lint screen | "Your lint trap does not catch everything." |
+| 2–12s | Feed the attachment in, real lint coming out | "This is a dryer vent cleaning kit. Watch what was hiding below the screen." |
+| 12–18s | The full lint pile on a black towel | "[That's from one dryer, one time.]" |
+| 18–22s | The 5 pieces laid out | "Five pieces, link's below. I get a commission on it." |
+
+**3 · Fabric shaver: "don't throw it out"**
+| Time | Footage | Voiceover |
+|---|---|---|
+| 0–2s | Shaver on a pilled throw, half already done | "Don't throw that blanket out." |
+| 2–12s | One slow pass in real time, macro | "Thirty seconds with a fabric shaver. The fuzz just comes off." |
+| 12–17s | Open the lint container | "[One honest note, e.g. it's louder than I thought.]" |
+| 17–22s | Size in hand, then into a stocking | "Easy stocking stuffer. Product link below, #ad." |
+
+**4 · Cheese grater: "Thanksgiving prep"**
+| Time | Footage | Voiceover |
+|---|---|---|
+| 0–2s | Block of cheddar going into the drum, overhead | "Thanksgiving mac and cheese, but the grating takes seconds." |
+| 2–10s | Real-time cranking; tug the suction base to show it doesn't slide | "Rotary cheese grater, suction base, five blades." |
+| 10–16s | Swap to the fine drum: parmesan or carrots | "[Only thing: soft stuff gets mushy, so stick to hard cheese and veggies.]" |
+| 16–22s | Take it apart, rinse, finished dish | "It's in the product link. I earn a commission." |
+
+**5 · Floor scrub brush: "Florida pool deck"**
+| Time | Footage | Voiceover |
+|---|---|---|
+| 0–2s | Brush on a green paver, one clean stripe already done | "Florida pool deck. One stripe." |
+| 2–12s | Real-time scrub, the head rotating into a corner | "Three-in-one floor brush. The head turns, so the corners actually get done." |
+| 12–17s | Flip to the squeegee and pull the water off | "Squeegee's on the back. [Make sure the handle pieces are twisted tight.]" |
+| 17–21s | Product leaning on the lanai | "Product link's below. #ad, I get a commission." |
+
+### Schedule to Nov 30
+| When | Do |
+|---|---|
+| **Nov 6–8** | Account check + Creator Health Rating. New name/bio/photo. Set the Bigfoot posts to private. Check #1–3 in the marketplace (eligibility + commission) and order them. |
+| **While they ship** | 1 non-shop video a day from the house, voiceover over real footage of "Florida house problems" (slider track sand, lanai pollen, lint trap). No product link. This tells TikTok what the account is about now. |
+| **When products arrive** | Test first. Then 1–2 shoppable videos a day (cap 3) + 1 non-shop. Make 4–5 different videos per product before judging it. |
+| **Nov 11–30** | Black Friday window. Mention only deals that are live on the listing that day. |
+| **Around Nov 20** | Review your tracking sheet. Drop anything with no link clicks after 4–5 videos. Add #4, #9 or #10 for the Thanksgiving and gift angle (kitchen peaks in December). |
+| **30 days after joining the pilot** | Check the early-exit list: quiz, 176+ Creator Health Rating, and 6+ shoppable videos of 8s+ or 10 orders. |
+
+**Name ideas** (check availability):
+- "Home Finds FL"
+- "Brandon Tests It" (leans into "a real guy actually testing it", which is your edge)
+- "The Lanai Guy"
+
+**Bio example:** "Testing home & kitchen finds in my Florida house 🏠 · links earn me commission"
+
+**Lane sources:**
+- [FastMoss September 2026 stats](https://www.fastmoss.com/blog/us-tiktok-shop-statistics-september-2026/)
+- [FastMoss best sellers by category, Oct 19–25](https://www.fastmoss.com/blog/best-selling-products-by-category/)
+- [FastMoss Q4 2026 what to sell](https://www.fastmoss.com/blog/what-to-sell-tiktok-shop-q4-2026)
+- [FindNiche trending home supplies](https://findniche.com/tiktok/trending-home-supplies-products-us)
+- [TikTok Shop: Content Styles](https://seller-us.tiktok.com/university/essay?knowledge_id=4401155330393899&lang=en)
+- [TikTok: How to use the Commercial Music Library](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library?lang=en)
+
+---
+
 ## Sources
 
 **Official TikTok:**
