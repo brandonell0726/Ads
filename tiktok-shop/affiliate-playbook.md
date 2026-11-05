@@ -257,6 +257,39 @@ An obvious character (a mascot) is legally cleaner than a realistic "regular guy
 - **Never put a product link on a ceiling or text-only clip.** That's textbook "still frame" and "irrelevant promotion".
 - **Better filler:** original, on-theme Gen Z / POV skits about the lane you sell in (the character can star in them), with no product tag, labeled as AI when the people look real.
 
+### Product-only, faceless and "sale" videos (checked against official US pages, 2026-11-05)
+
+**What TikTok's US pages say:**
+- "Requirements for High-Quality Videos and LIVEs" (10/26/2026) lists "Show your face" and "feature your face and the physical product" as requirements.
+- The US Content Policy (10/26/2026) prohibits videos where the creator doesn't "speak, interact with viewers, appear on screen, or meaningfully present or demonstrate the product".
+- The "still frame" examples include "Content without live speech or human presence". Even "with text animation", a still image "is considered still frame content".
+- No official page gives an example of an approved faceless format.
+
+**Risk, lowest to highest:**
+
+| Format | Risk |
+|---|---|
+| Face (even briefly) + real product + own voice | ✅ The standard TikTok describes |
+| Real product footage + **own voiceover**, no face | Lowest-risk faceless option, but still misses "feature your face" |
+| Real hands + product, text and music only, no voice | Medium to high |
+| Product footage + text-to-speech or AI voice | High: no human presence or live speech. AI narration is only listed as OK for translation/dubbing, and must be disclosed. (The AI-voice *ban* is LIVE-only.) |
+| Product photo on an AI background + sale text + music | Effectively prohibited (still frame). Animating the photo with AI is banned separately ("static product appear animated", "fake 3D or rotating visuals") |
+
+**AI models wearing clothes:**
+- There's no apparel-specific AI ban (the Oct 19 ban covers beauty, personal care and health only).
+- General AI rules still apply: the garment must match the real product's size, color, material and fit, and the video must be labeled as AI.
+- A pure AI try-on video with no creator presence is still exposed to the rules above.
+- TikTok's own fashion course tells sellers to "put on the clothing and get in front of the camera… or get a partnering creator to do so".
+- Never put AI kids in videos. Put lingerie and swimwear on mannequins, not bodies.
+
+**Sale and price text (Price and Discount Content Claims Guide, US, 07/16/2026):**
+- Only claim a deal that is **live on the product page right now**, and say the conditions (coupon, which sizes or colors, minimum spend).
+- Never say "lowest price", "cheapest" or "biggest sale". **"Triple discount" is named as something to avoid** unless there really are three stacked discounts.
+- Use "today only" or "ends tonight" only while that deal is actually running. Don't promote a deal before it starts.
+- When the deal ends, update, unlink or delete the video.
+- Don't bake prices into AI backgrounds. Keep the price out of the video, or use a line like "there may be a promotion, check the product page".
+- **Black Friday:** TikTok's US campaign runs Nov 11–30, 2026 (PT). Pilot creators can't join campaigns, but can still post about products that have a live deal, as long as the claim matches the price shown.
+
 ### Posting from Higgsfield
 Higgsfield's TikTok publish tool has fields for the AI label and the ad disclosure. One vendor says TikTok's posting API can't attach Shop product links (unconfirmed). If that's true: send the video to drafts, then add the product link in the TikTok app.
 
@@ -274,6 +307,9 @@ Higgsfield's TikTok publish tool has fields for the AI label and the ad disclosu
 - [Affiliate Creator Pilot Program: Extended Pilot tag](https://seller-us.tiktok.com/university/essay?knowledge_id=5526872163927850&lang=en)
 - [Best Practices for Promotional Content](https://seller-us.tiktok.com/university/essay?knowledge_id=5769635937191681&lang=en)
 - [Prohibited Content for Platform Safety: crude/vulgar products](https://seller-us.tiktok.com/university/essay?knowledge_id=6125629963945771&lang=en)
+- [Requirements for High-Quality Videos and LIVEs (US, 10/26/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=4581457528243969&lang=en)
+- [Price and Discount Content Claims Guide (US, 07/16/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=6935962194478864&lang=en)
+- [Guidelines for Listing Apparel Products](https://seller-us.tiktok.com/university/essay?knowledge_id=3055494219695885&lang=en)
 - [How TikTok recommends videos #ForYou](https://newsroom.tiktok.com/how-tiktok-recommends-videos-for-you?lang=en)
 - [Community Guidelines: accounts and features](https://www.tiktok.com/community-guidelines/en/accounts-features)
 - [Community Guidelines: integrity and authenticity](https://www.tiktok.com/community-guidelines/en/integrity-authenticity)
