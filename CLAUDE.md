@@ -34,6 +34,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 
 - `leads/four-corners-restaurants.md`: 25 restaurant and cafe leads around Davenport / Four Corners / Kissimmee, with an email draft for each (2026-10-21)
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
+- `leads/ai-marketing-gigs.md`: open job/gig postings wanting AI video, UGC and social content skills (Central Florida, remote, agencies, chamber events), checked live on 2026-11-05, with application drafts, platforms to join (Upwork, Fiverr, Google Business Profile, Contra, Thumbtack…) and bilingual profile text. Recheck weekly; postings expire fast.
 - `leads/do-not-contact.md`: opt-outs
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
 - `reports/AI ad maker app for restaurants.md`: research report and plan for Brandon's self-serve AI ad app idea: competitors, pricing, credits, costs, ad styles, go-to-market and a phased plan (2026-11-04). Its sources and fact-checks are in `research_notes/AI ad maker app for restaurants/`.
