@@ -54,7 +54,7 @@ Researched 2026-11-05 for Brandon (elier.visuals). US rules only. TikTok changes
 1. **Wrong audience.** People watch AI Bigfoot for entertainment. Views don't turn into buyers unless the viewer already wants the product.
 2. **It breaks Shop content rules three ways:**
    - **Irrelevant promotion:** linking a product the video isn't about is a named violation.
-   - **Non-interactive content:** shop videos with no real person, no demo and no talking get flagged. 5+ of these in 7 days can cap you at 7 product-linked posts for about a week, with the product links hidden (TikTok seller policy, as reported by several blogs).
+   - **No real person, no demo:** TikTok's US Content Policy (10/26/2026) prohibits shop videos "where the creator does not speak, interact with viewers, appear on screen, or meaningfully present or demonstrate the product". (Some blogs say 5+ of these in 7 days triggers a week-long cap. That rule appears on Southeast Asian TikTok pages and wasn't found on any US page, so treat it as unconfirmed for the US.)
    - **AI content:** fully AI-generated content has to be labeled. The AI must not change what the product looks like or does. Some brands (SharkNinja, for one) ban AI content from their affiliate programs outright.
 3. **The money stories are mostly sales pitches.** The "Bigfoot makes $30K a month" claims come from people selling Gumroad guides and Fiverr gigs. I found no proof that it sells products.
 
@@ -91,7 +91,7 @@ Bigfoot can stay as a fun entertainment page if you enjoy it. Just don't make it
 |---|---|---|
 | **A. Home, cleaning and car-care gadgets** | Satisfying before/after demos, hands-only filming works, big Florida car culture, almost no claim risk | Low |
 | **B. Fragrance & grooming (men's or unisex)** | Perfume is top-10, products are cheap, "smells like X for $20" is an easy format, and your personality sells it | Low–medium |
-| **C. Beauty & skincare** | The biggest category, and it's the same niche as your UGC brand list, so these videos double as **elier.visuals portfolio** | Medium: no medical claims |
+| **C. Beauty & skincare** | The biggest category, and it's the same niche as your UGC brand list, so these videos double as **elier.visuals portfolio** | Medium: no medical claims. **Real filming only:** since Oct 19, 2026, AI people and AI hands can't demonstrate beauty, personal care or health products |
 | Avoid for now: **supplements / weight loss** | Highest commissions, but medical and weight claims are named violations. The easiest way to collect strikes. | High |
 
 **"Just go off what's trending" works for picking products, but not as an account identity.** Pick one lane per account, then chase trending products **inside** that lane. Jumping lanes confuses who TikTok shows you to.
@@ -206,12 +206,88 @@ Take the **Creator Policy Quiz** in Creator Center. You need to pass it to leave
 
 ---
 
+## 10. Your account and the AI-character plan (added 2026-11-05)
+
+**Account:** @bigfootflvlogz ("bigfootwildlife")
+- 3,298 followers, but following 4,771, and only 1,035 likes all-time
+- The pinned yeti shirt video got 36K views but earned only about $25, back when the Bigfoot trend was hot
+- The last 5 AI Bigfoot posts got 80–232 views each
+
+The follower count is mostly people who followed back, not fans. And 36K views for $25 shows that trend viewers don't buy.
+
+### Verdict 1: keep the account and rebrand it. Don't reset, and don't start over.
+- **There is no "reset".** TikTok has no button that wipes a creator's history. TikTok says follower count and past performance are **not direct factors** in who sees a new video, so the weak Bigfoot posts don't poison future ones.
+- **This account can already sell.** It's over the 1,000-follower line, and Shop access stays with the account. A new account has to earn 1,000 real followers before it can even apply, then starts the 30-day pilot from zero.
+- **All your accounts are tied to your ID.** You're allowed up to 5 creator accounts, but if one gets banned, the others can go with it. Opening a new account to get around a restriction counts as ban evasion.
+- **Rebrand checklist:**
+  1. Check TikTok Studio → **Account check** (are any posts kept off For You?), Shop Creator Center → **Creator Health Rating**, and your affiliate/pilot status.
+  2. Change the name, bio and profile picture to the new lane.
+  3. Set the old Bigfoot videos to **private** rather than deleting them (it's reversible). Include the pinned shirt video: profane shirts can't be promoted in Shop videos anymore (US vulgar-content update, Oct 23, 2026).
+  4. Stop follow-for-follow. You don't need to mass-unfollow.
+
+### Verdict 2: an AI guy in every video is the riskiest and weakest version of the plan
+It isn't banned. TikTok says AI content "will not be restricted or penalized solely for using AI." But the 2026 rules box it in:
+
+| Rule (official US pages unless noted) | What it means for an AI guy |
+|---|---|
+| **Since Oct 19, 2026:** no AI humans or AI hands demonstrating **beauty, personal care or health** products | The biggest category, where most AI-UGC accounts work, is closed to him |
+| Product videos must "clearly and accurately display the physical product". No AI that changes the product, animates a still product or shows results it can't deliver | He can't AI-render the product doing its job. You need real footage of the real product |
+| Prohibited: videos where the creator doesn't "speak, interact… appear on screen, or meaningfully present or demonstrate the product". AI that "replaces real product demonstration" can count as misleading or low-quality | A 100% AI video is the format moderators are told to flag |
+| Prohibited: "the same template-based content" and "the same generic sales script for a range of different products" | One character + one script template = repetitive content |
+| Accounts that "mass-produce low-cost content" can get the **Extended Pilot** tag: 3 shoppable videos a **week**, and you can't graduate | The AI-factory approach can lock the account in the pilot |
+| Every fully AI video needs the **AI label**, including cartoon or obviously fictional ones | The label is required either way. On its own it doesn't cause demotion |
+| **US law (FTC, 16 CFR 465 and 255):** an AI person can't say "I've been using this" or show results. That's a fake testimonial, and the creator can be personally liable (up to $53,088 per violation) | He can only be a **presenter**, never a "customer" |
+| Some brands ban AI content outright. SharkNinja takes back commissions | Check each brand's affiliate terms |
+
+**Demand is weak too:**
+- In one field study, AI-labeled ads got 31.5% fewer clicks.
+- The #1 reason people buy is that the creator actually uses the product.
+- Brands now post their own AI product videos for free, hundreds a month, so an AI-only affiliate competes with the seller's own free content.
+
+**What works better, in order:**
+1. **You, or at least your real hands and your real voice, with the real product.** Use Higgsfield for hooks, b-roll and scenes. This is the format TikTok, brands and buyers all reward, and the one brands still pay humans for. It's also UGC experience for elier.visuals.
+2. **Hybrid:** a labeled AI character as the hook (the first 2–3 seconds), then cut to real product footage you shot. Write a fresh script every video, make no "I used it" or results claims, and put "#ad" plus the AI label on it. Stick to non-beauty, non-health lanes: home, gadgets, car care, gifts, clean novelty tees.
+
+An obvious character (a mascot) is legally cleaner than a realistic "regular guy", because nobody mistakes a mascot for a real customer.
+
+### Verdict 3: filler is OK, but make it on-theme and original
+- **The cap:** filler with no product link doesn't count toward the 3-a-day limit and won't cost Creator Health Rating points. It also doesn't count toward leaving the pilot early.
+- **Off-topic memes bring the wrong crowd.** Viral motivational or ceiling memes pull in followers who don't buy. That's the Bigfoot lesson again: 36K views, $25.
+- **Reposts can hurt the whole account.** Reposted motivational clips, stock montages and copied meme formats are "unoriginal", so they can't reach For You. If an account posts "a lot" of that, TikTok can make the whole account ineligible, product videos included.
+- **Never put a product link on a ceiling or text-only clip.** That's textbook "still frame" and "irrelevant promotion".
+- **Better filler:** original, on-theme Gen Z / POV skits about the lane you sell in (the character can star in them), with no product tag, labeled as AI when the people look real.
+
+### Posting from Higgsfield
+Higgsfield's TikTok publish tool has fields for the AI label and the ad disclosure. One vendor says TikTok's posting API can't attach Shop product links (unconfirmed). If that's true: send the video to drafts, then add the product link in the TikTok app.
+
+---
+
 ## Sources
 
 **Official TikTok:**
 - [Creator Eligibility Policy](https://seller-us.tiktok.com/university/essay?knowledge_id=6939143037667118&lang=en): 1K minimum, pilot limits, graduation, posting caps
+- [AI-Generated Content Restrictions and Requirements (US, 09/02/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=491489038501663&lang=en)
+- [Policy Pulse, October 2026: Oct 19 beauty/health AI ban, Oct 23 vulgar-content update](https://seller-us.tiktok.com/university/essay?knowledge_id=3634802985453313&lang=en)
+- [Beauty & Personal Care AIGC FAQ (US, 11/04/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=4744798490527496)
+- [US Content Policy (10/26/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=6837891779151617&lang=en)
+- [Creator and Content Policy Guide (US, 10/09/2026)](https://seller-us.tiktok.com/university/essay?knowledge_id=4984474064766737&lang=en)
+- [Affiliate Creator Pilot Program: Extended Pilot tag](https://seller-us.tiktok.com/university/essay?knowledge_id=5526872163927850&lang=en)
+- [Best Practices for Promotional Content](https://seller-us.tiktok.com/university/essay?knowledge_id=5769635937191681&lang=en)
+- [Prohibited Content for Platform Safety: crude/vulgar products](https://seller-us.tiktok.com/university/essay?knowledge_id=6125629963945771&lang=en)
+- [How TikTok recommends videos #ForYou](https://newsroom.tiktok.com/how-tiktok-recommends-videos-for-you?lang=en)
+- [Community Guidelines: accounts and features](https://www.tiktok.com/community-guidelines/en/accounts-features)
+- [Community Guidelines: integrity and authenticity](https://www.tiktok.com/community-guidelines/en/integrity-authenticity)
 
-**Third-party:**
+**US law:**
+- [16 CFR 465.2: fake reviews and testimonials](https://www.law.cornell.edu/cfr/text/16/465.2)
+- [16 CFR 255.1: endorsers must be real users](https://www.law.cornell.edu/cfr/text/16/255.1)
+- [FTC Q&A on the reviews rule (AI avatars)](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
+
+**News:**
+- [Shopifreaks: brands flooding Shop with AI videos, SharkNinja ban](https://www.shopifreaks.com/tiktok-shop-is-filling-with-ai-generated-product-videos-and-avatars-sparking-brand-bans-and-creator-backlash-over-lost-sales/)
+- [404 Media: AI "doctor" supplement videos](https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/)
+
+**Third-party (earlier research):**
 - [PPC Land: Creator Enforcement Policy (June 2026)](https://ppc.land/tiktok-shop-creator-enforcement-bans-frozen-pay-and-a-90-day-violation/)
 - [PPC Land: new Shop rules that can freeze accounts](https://ppc.land/tiktok-shops-tightening-grip-new-rules-that-could-freeze-your-account/)
 - [BigSeller: posting limit update (March 30)](https://www.bigseller.pro/blog/articleDetails/4377/tiktok-shop-content-posting-limit-update.htm)

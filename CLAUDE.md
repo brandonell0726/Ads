@@ -13,7 +13,7 @@ Read this first. It holds Brandon's business details so they don't have to be as
 - **Services:** short vertical video ads/reels for local businesses (restaurants, food trucks), and UGC-style videos for e-commerce brands
 - **Connected tools (as of 2026-10-21):** Higgsfield (Ultra plan) and Gmail
 - **Social accounts (as of 2026-11-05):** 2 YouTube channels, 2 Facebook pages, Instagram, 1 TikTok with about 3K followers. No TikTok is connected to Higgsfield yet.
-- **Side project (started 2026-11-05):** TikTok Shop affiliate. Has tried AI Bigfoot content, which didn't sell. Wants to add 2 more TikTok accounts. See `tiktok-shop/affiliate-playbook.md`.
+- **Side project (started 2026-11-05):** TikTok Shop affiliate on TikTok @bigfootflvlogz ("bigfootwildlife": 3.3K followers, 4.7K following, AI Bigfoot/yeti content that has stopped working). About $25 in past affiliate commission. Considering a rebrand, an AI-character format and 2 more accounts. See `tiktok-shop/affiliate-playbook.md`, section 10.
 
 ## Email sign-off (use on every pitch)
 
