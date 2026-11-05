@@ -12,6 +12,8 @@ Read this first. It holds Brandon's business details so they don't have to be as
 - **Based in:** Davenport, FL (Four Corners area, Central Florida)
 - **Services:** short vertical video ads/reels for local businesses (restaurants, food trucks), and UGC-style videos for e-commerce brands
 - **Connected tools (as of 2026-10-21):** Higgsfield (Ultra plan) and Gmail
+- **Social accounts (as of 2026-11-05):** 2 YouTube channels, 2 Facebook pages, Instagram, 1 TikTok with about 3K followers. No TikTok is connected to Higgsfield yet.
+- **Side project (started 2026-11-05):** TikTok Shop affiliate. Has tried AI Bigfoot content, which didn't sell. Wants to add 2 more TikTok accounts. See `tiktok-shop/affiliate-playbook.md`.
 
 ## Email sign-off (use on every pitch)
 
@@ -35,6 +37,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/four-corners-restaurants.md`: 25 restaurant and cafe leads around Davenport / Four Corners / Kissimmee, with an email draft for each (2026-10-21)
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
 - `leads/do-not-contact.md`: opt-outs
+- `tiktok-shop/affiliate-playbook.md`: TikTok Shop affiliate research and 30-day plan (2026-11-05)
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
 
 ## Working in Claude Code cloud sessions
