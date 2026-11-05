@@ -8,7 +8,7 @@ Read this first. It holds Brandon's business details so they don't have to be as
 - **Business:** elier.visuals
 - **Business email:** elier.visualss@gmail.com (two "s" at the end, exactly as given)
 - **Postal mailing address:** not provided yet. US law (CAN-SPAM) requires a street address, P.O. box or registered virtual mailbox in every cold email; an email address doesn't count. Do not send cold emails until Brandon gives one. Don't commit a home address here while this repo is public.
-- **Portfolio link:** none yet. Leave it out of emails until there is one.
+- **Portfolio (Brandon, 2026-11-05):** two YouTube channels (one of entertainment-style AI animation, and elier.visuals with AI ads for food trucks and other businesses) plus a UGC portfolio (including `ads/ugc-sneaker-sample/`). He hasn't given the links yet: ask for them, and leave links out of emails until he does.
 - **Based in:** Davenport, FL (Four Corners area, Central Florida)
 - **Services:** short vertical video ads/reels for local businesses (restaurants, food trucks), and UGC-style videos for e-commerce brands
 - **Connected tools (as of 2026-10-21):** Higgsfield (Ultra plan) and Gmail

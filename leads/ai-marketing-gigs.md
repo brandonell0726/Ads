@@ -12,9 +12,13 @@ All dates are 2026 unless noted.
 ## 1. Best leads, with messages
 
 **Before you apply:**
-- Most postings want 3–5 sample links. You have 3 AI-made sneaker UGC videos (15 s each). Post them on a free Contra or Runway DIFFUSE profile, labeled "AI-generated", and paste those links where a message says [links].
-- If you can, make 1–2 more samples first: a restaurant-style reel for a made-up business, a Spanish ad, or a set of static product ads.
-- Show the Chef Amanda reel only after the food truck gives written OK.
+- Most postings want 3–5 sample links. You have three kinds of work to pick from:
+  - your **animation channel** (entertainment-style AI animation on YouTube)
+  - your **elier.visuals channel** (AI ads for food trucks and other businesses)
+  - your **UGC portfolio** (including the 3 AI sneaker videos)
+- Each message below says which to lead with. Where it says [links], paste the channel link plus 2–3 of your best matching videos.
+- Label AI-made work "AI-generated" wherever you post it. A free Contra or Runway DIFFUSE profile is a handy single place for your best pieces.
+- Ads made for a real business (like the Chef Amanda reel) go in applications only with that business's written OK.
 - None of these postings are in Spanish, so the messages are English only.
 - Before any test work, get the rate and scope in writing (see section 5).
 
@@ -23,7 +27,7 @@ All dates are 2026 unless noted.
 - **Catch:** One page says Philippines, another says US only. Pay is just "competitive", and Paired mostly places offshore workers. Ask about both before any test.
 - **Apply:** [Workable form](https://apply.workable.com/pairedrecruiting/j/19A651CFB1/apply) before Dec 9 ([Himalayas copy](https://himalayas.app/companies/paired-so/jobs/ai-video-ad-creator-direct-response-paid-social-us-based-remote-4255083226)).
 
-> Hi, I'm applying for the AI Video Ad Creator role. I make short AI video ads in Higgsfield from a script, with the hook up front and the same product kept consistent from shot to shot. My samples are three 15-second AI-made UGC videos for a sneaker (labeled as AI): [links]. I'm based in Florida. Before any test, could you confirm that US contractors are eligible, and share the rate and whether it's per video or monthly?
+> Hi, I'm applying for the AI Video Ad Creator role. I make short AI video ads in Higgsfield from a script, with the hook up front and the same product kept consistent from shot to shot. My samples are AI UGC videos from my portfolio and AI ads I've made for local businesses on my elier.visuals channel, all labeled as AI: [links]. I'm based in Florida. Before any test, could you confirm that US contractors are eligible, and share the rate and whether it's per video or monthly?
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -32,7 +36,7 @@ All dates are 2026 unless noted.
 - **Catch:** Open since Apr 6, so replies may be slow. Topics are AI plus politics, social justice, reproductive health, climate and finance. Decide if you're comfortable with that.
 - **Apply:** [Lever posting](https://jobs.lever.co/get-vocal-pbc/c6a5ee3b-0f67-443f-857e-413c5e787de5) ("Apply for this job").
 
-> Hi, I'm applying for the AI Content Creator role. I make AI vertical video end to end in Higgsfield and Seedance: concept, script, hook and edit. In my samples, three AI-made UGC videos for a sneaker (labeled as AI), the same AI character carries through all three, the kind of consistency a new branded account needs: [links]. I'd like to hear more about the accounts you're planning.
+> Hi, I'm applying for the AI Content Creator role. I make AI vertical video end to end in Higgsfield and Seedance: concept, script, hook and edit. I also run a YouTube channel of entertainment-style AI animation, so I'm used to keeping characters and a look consistent across a series, which a new branded account needs. Samples, labeled as AI: [links]. I'd like to hear more about the accounts you're planning.
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -43,7 +47,7 @@ All dates are 2026 unless noted.
 
 > **Subject:** Social Media Content Creator – Brandon (elier.visuals)
 >
-> Hi HohmDigital team, I'm applying for the Social Media Content Creator role. I'm in Davenport and make short vertical reels and ads for local businesses, and I can get to partner businesses around Central Florida for shoots. My resume is attached. My portfolio so far is AI-made, three AI UGC videos for a sneaker (labeled as AI): [links]. A social account I admire is [account], because [one reason]. Could you also share the pay rate for the role?
+> Hi HohmDigital team, I'm applying for the Social Media Content Creator role. I'm in Davenport and make short vertical reels and ads for local businesses, and I can get to partner businesses around Central Florida for shoots. My resume is attached. On my elier.visuals channel I post AI-made ads for food trucks and other local businesses, and I also make UGC-style product videos (AI work labeled as AI): [links]. A social account I admire is [account], because [one reason]. Could you also share the pay rate for the role?
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -52,7 +56,7 @@ All dates are 2026 unless noted.
 - **Catch:** Only $500 a month, so treat it as side income and a portfolio piece. It includes posting and community management. Accounts you've grown count double, so include any page you run.
 - **Apply:** [Ashby posting](https://jobs.ashbyhq.com/sleeper/fd7c8e44-caa4-4dff-b2d9-3a3365aae706): a short note plus 3–5 links to AI content you made.
 
-> Hi Sleeper team, I'm applying for the AI Content Creator (Contract) role. I make AI short-form video in Higgsfield with Seedance and Kling, keeping the same character and look across a series. My links are three AI-made UGC videos (labeled as AI), each built on a different hook (a detail close-up, a fit check and an unboxing): [links]. [If you run a page, add: "I also run [account]."]
+> Hi Sleeper team, I'm applying for the AI Content Creator (Contract) role. I make AI short-form video in Higgsfield with Seedance and Kling, keeping the same character and look across a series. I run two YouTube channels: one of entertainment-style AI animation and one of AI ads for local businesses (elier.visuals). My links, all labeled as AI: [links].
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -61,7 +65,7 @@ All dates are 2026 unless noted.
 - **Catch:** An always-open posting repeated in several cities. It puts you on their freelancer roster but doesn't guarantee a client. It lists a bachelor's degree and 3–5 years, and the work includes calendars, captions, community management and reports. Ask the per-account fee before you sign.
 - **Apply:** ["Apply at RockawayMore" on Net Influencer](https://netinfluencer.com/jobs/freelance-social-media-manager-at-rockawaymore/) (goes through Adzuna).
 
-> Hi RockawayMore team, I'm applying for the Freelance Social Media Manager role. I make short vertical reels and ads for restaurants and food trucks in Central Florida, for Instagram, Facebook and TikTok, in English and Spanish. My current samples are AI-made, three AI UGC videos (labeled as AI): [links]. I've also made an AI reel for a local food truck that I can share once they OK it. Could you share the monthly fee per client account?
+> Hi RockawayMore team, I'm applying for the Freelance Social Media Manager role. I make short vertical reels and ads for restaurants and food trucks in Central Florida, for Instagram, Facebook and TikTok, in English and Spanish. You can see my AI-made restaurant and food truck ads on my elier.visuals channel, labeled as AI: [links]. Could you share the monthly fee per client account?
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -70,7 +74,7 @@ All dates are 2026 unless noted.
 - **Catch:** It's on a university Handshake board, which usually admits only that school's students and alumni. If you can't get in, contact Courtside through its app or official site and mention the role. It's a sweepstakes sports-picks app (gambling-adjacent; rules differ by state).
 - **Apply:** [University listing](https://career.stthomas.edu/jobs/courtside-games-ai-video-creator-producer/), which links to Handshake. Send AI video examples.
 
-> Hi Courtside team, I'm applying for the AI Video Creator & Producer role. I make AI short-form video in Higgsfield with Kling and Seedance, and I build each one around a hook in the first two seconds. My examples are three AI-made UGC videos (labeled as AI): [links]. I'd be glad to talk through sports and gaming ideas for your feeds.
+> Hi Courtside team, I'm applying for the AI Video Creator & Producer role. I make AI short-form video in Higgsfield with Kling and Seedance, and I build each one around a hook in the first two seconds. I also run a YouTube channel of entertainment-style AI animation. Examples, labeled as AI: [links]. I'd be glad to talk through sports and gaming ideas for your feeds.
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -79,7 +83,7 @@ All dates are 2026 unless noted.
 - **Catch:** On-site at their Clearwater studio, about 1.5–2 hours each way. Apply only if you'd make that drive, or say you're open to freelance. (They also list a full-time "TikTok Content Creator & Strategist" on Mediabistro: $40,000–$50,000, on-site.)
 - **Apply:** [Net Influencer listing](https://netinfluencer.com/jobs/tiktok-shop-content-creator-video-editor-at-cgk-linens/): Apply button, with your resume and short video samples.
 
-> Hi CGK Linens team, I'm applying for the TikTok Shop Content Creator & Video Editor role, part-time. I make short, sales-focused product videos. My samples are three 15-second AI-made UGC videos for a sneaker (labeled as AI), each built on a different hook: [links]. I'm in Davenport, about two hours from your studio, so I'd also be open to making product videos for you freelance.
+> Hi CGK Linens team, I'm applying for the TikTok Shop Content Creator & Video Editor role, part-time. I make short, sales-focused product videos. My UGC portfolio has 15-second AI-made product videos, each built on a different hook (labeled as AI): [links]. I'm in Davenport, about two hours from your studio, so I'd also be open to making product videos for you freelance.
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -88,7 +92,7 @@ All dates are 2026 unless noted.
 - **Catch:** The brand is hidden behind Pitchlo signup, and Pitchlo may charge creators to see it. Search a line of the brief to find the original posting before paying anything. These are 1–10 minute sales videos, not reels. Call the style "3D animated", never "Pixar". The brand must own the health claims. One style mixes real actors with AI, so ask about labeling.
 - **Apply:** [Pitchlo listing](https://www.pitchlo.com/jobs/d29debb5-5f02-4d37-9270-3f8990c2b0d1) (needs a Pitchlo account).
 
-> Hi, I'm interested in the AI Video Editor – Supplement Ads project. I make AI video ads in Higgsfield with realistic AI actors speaking to camera. My samples are short, three 15-second AI-made UGC videos (labeled as AI): [links], so I'd rely on your briefs for the longer format. Before starting, could you confirm how many videos and revisions the $1,200 covers, when payment is made, the usage rights, how the AI footage will be labeled, and that the brand supplies and owns the health claims in the scripts?
+> Hi, I'm interested in the AI Video Editor – Supplement Ads project. I make AI video ads in Higgsfield with realistic AI actors speaking to camera. I also run a YouTube channel of entertainment-style AI animation, which fits the 3D-animated style in your brief. Samples, labeled as AI: [links]. My ads so far are short, so I'd rely on your briefs for the 1–10 minute format. Before starting, could you confirm how many videos and revisions the $1,200 covers, when payment is made, the usage rights, how the AI footage will be labeled, and that the brand supplies and owns the health claims in the scripts?
 >
 > Brandon · elier.visuals · elier.visualss@gmail.com
 
@@ -239,11 +243,11 @@ Label every sample "AI-generated" on every platform.
 
 > **AI Video Ads & AI UGC for Meta and TikTok (English/Spanish)**
 >
-> I'm Brandon, the creator behind elier.visuals in Central Florida. I make short vertical video ads and UGC-style videos with AI tools (Higgsfield, Seedance and Kling) for Meta, TikTok and Reels. Each video opens with a hook and has captions, in English, Spanish or both. I keep the same AI character and product look consistent across a set of videos. All my AI work is labeled as AI, and I never present AI people as real customers. Tell me about your product and where the ad will run, and I'll reply with a short plan and a quote.
+> I'm Brandon, the creator behind elier.visuals in Central Florida. I make short vertical video ads and UGC-style videos with AI tools (Higgsfield, Seedance and Kling) for Meta, TikTok and Reels. Each video opens with a hook and has captions, in English, Spanish or both. I keep the same AI character and product look consistent across a set of videos, and I also make entertainment-style AI animation for YouTube. All my AI work is labeled as AI, and I never present AI people as real customers. Tell me about your product and where the ad will run, and I'll reply with a short plan and a quote.
 
 > **Anuncios en video y UGC hechos con IA para Meta y TikTok (inglés y español)**
 >
-> Soy Brandon, el creador detrás de elier.visuals, en el centro de Florida. Hago anuncios cortos en video vertical y videos estilo UGC con herramientas de IA (Higgsfield, Seedance y Kling) para Meta, TikTok y Reels. Cada video arranca con un gancho y lleva subtítulos, en inglés, en español o en ambos idiomas. En una serie de videos mantengo el mismo personaje de IA y el mismo aspecto del producto. Todo lo que hago con IA va identificado como tal, y nunca presento a personas creadas con IA como clientes reales. Cuéntame cuál es tu producto y dónde se va a publicar el anuncio, y te respondo con un plan breve y una cotización.
+> Soy Brandon, el creador detrás de elier.visuals, en el centro de Florida. Hago anuncios cortos en video vertical y videos estilo UGC con herramientas de IA (Higgsfield, Seedance y Kling) para Meta, TikTok y Reels. Cada video arranca con un gancho y lleva subtítulos, en inglés, en español o en ambos idiomas. En una serie de videos mantengo el mismo personaje de IA y el mismo aspecto del producto, y también hago animación de entretenimiento con IA para YouTube. Todo lo que hago con IA va identificado como tal, y nunca presento a personas creadas con IA como clientes reales. Cuéntame cuál es tu producto y dónde se va a publicar el anuncio, y te respondo con un plan breve y una cotización.
 
 **Local version** (Google Business Profile, Nextdoor, Thumbtack, Bark, Fiverr restaurant gig)
 
