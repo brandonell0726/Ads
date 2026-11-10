@@ -44,5 +44,11 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 ## Working in Claude Code cloud sessions
 
 - The session's network blocks most websites (Google Maps, business sites, Higgsfield's upload server and CDN, Mixkit). Web search works.
+- Network access changes between sessions, so test it first. On 2026-11-09 these worked from the session itself:
+  - TikTok, YouTube, Instagram and Higgsfield's result CDN (cloudfront) were reachable.
+  - yt-dlp, installed from PyPI into a venv, listed TikTok profiles, pulled per-video stats and downloaded TikTok videos.
+  - YouTube downloads hit a bot check; YouTube search metadata and thumbnails worked.
+  - ffmpeg is installed, so contact sheets of frames can be viewed with Read. faster-whisper from PyPI can transcribe speech.
+- Higgsfield credits: run swaps (Genjutsu) on the higgsfield.ai website when they show 0 credits there. MCP calls are always charged. Use `get_cost` before any generation, and never generate without Brandon's OK on the script and the cost.
 - Higgsfield's `sandbox_exec` has open internet plus ffmpeg, node and Chromium. Download clips and music there, render HyperFrames there, then upload the result with `media_upload` and a curl PUT from the sandbox.
 - Photos Brandon drops into the chat can't be read by Higgsfield. Use `media_upload_widget` so he uploads them straight to Higgsfield.
