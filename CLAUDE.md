@@ -38,6 +38,7 @@ Brandon · elier.visuals · elier.visualss@gmail.com · [mailing address]
 - `leads/florida-ugc-brands.md`: 10 Florida beauty, skincare, fitness and wellness brands for UGC, with an email draft for each (2026-10-21)
 - `leads/do-not-contact.md`: opt-outs
 - `tiktok-shop/affiliate-playbook.md`: TikTok Shop affiliate research and 30-day plan (2026-11-05)
+- `tiktok-shop/hollis-reboot.md`: proposed reboot of the TikTok account around an original Florida swamp ape character, "Hollis" (2026-11-10). Not approved yet
 - `ads/chef-amanda/`: the Chef Amanda (Cuban fusion food truck, Kissimmee) sample reel: design source, plan and links. See its README.
 
 ## Working in Claude Code cloud sessions
